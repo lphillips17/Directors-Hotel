@@ -3418,3 +3418,1345 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.04.10-05.17.48:326][966]LogContentValidation: Display: Validating SoundWave /Game/MichaelM/Audio/Background_low.Background_low
 [2022.04.10-05.17.48:326][966]LogContentValidation: Display: Validating SoundWave /Game/MichaelM/Audio/Bed_Sheet.Bed_Sheet
 [2022.04.10-05.17.48:326][966]LogContentValidation: Display: Validating SoundWave /Game/MichaelM/Audio/Alarm_Clock.Alarm_Clock
+[2022.04.10-05.20.32:760][570]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave Background_low...
+[2022.04.10-05.20.32:762][570]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/MichaelM/Audio/Background_low.Background_low will be modified from 40 to 40.
+[2022.04.10-05.20.33:417][570]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 9784264 while cooking SoundWave /Game/MichaelM/Audio/Background_low.Background_low.
+[2022.04.10-05.20.39:821][818]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave Bed_Sheet...
+[2022.04.10-05.20.39:821][818]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/MichaelM/Audio/Bed_Sheet.Bed_Sheet will be modified from 40 to 40.
+[2022.04.10-05.20.39:841][818]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 331760 while cooking SoundWave /Game/MichaelM/Audio/Bed_Sheet.Bed_Sheet.
+[2022.04.10-05.22.57:179][513]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\monst\OneDrive\Desktop\School\Audio\Sus Piano.wav)
+[2022.04.10-05.27.39:292][354]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2022.04.10-05.27.39:297][354]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/HorrorEngine/Maps/Overview' took 0.018
+[2022.04.10-05.27.39:298][354]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MichaelM/Audio/Sus_Piano] ([1] browsable assets)...
+[2022.04.10-05.27.39:302][354]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/MichaelM/Audio/Sus_Piano.Sus_Piano]
+[2022.04.10-05.27.39:302][354]OBJ SavePackage: Finished generating thumbnails for package [/Game/MichaelM/Audio/Sus_Piano]
+[2022.04.10-05.27.39:310][354]LogSavePackage: Moving '../../../../../Unity Projects/Directors-Hotel/HorrorEngine/Saved/Sus_Piano_Auto35073247F4FFCC3A900E7F1B5195326AC.tmp' to '../../../../../Unity Projects/Directors-Hotel/HorrorEngine/Saved/Autosaves/Game/MichaelM/Audio/Sus_Piano_Auto3.uasset'
+[2022.04.10-05.27.39:311][354]LogFileHelpers: Auto-saving content packages took 0.013
+[2022.04.10-05.33.34:256][420]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\monst\OneDrive\Desktop\School\Audio\Piano 1.wav)
+[2022.04.10-05.33.36:692][455]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave Piano_1...
+[2022.04.10-05.33.36:692][455]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/MichaelM/Audio/Piano_1.Piano_1 will be modified from 40 to 40.
+[2022.04.10-05.33.36:749][455]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 705600 while cooking SoundWave /Game/MichaelM/Audio/Piano_1.Piano_1.
+[2022.04.10-05.34.30:634][843]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\monst\OneDrive\Desktop\School\Audio\Piano 2.wav)
+[2022.04.10-05.34.57:798][924]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave Piano_2...
+[2022.04.10-05.34.57:798][924]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/MichaelM/Audio/Piano_2.Piano_2 will be modified from 40 to 40.
+[2022.04.10-05.34.57:848][924]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 617400 while cooking SoundWave /Game/MichaelM/Audio/Piano_2.Piano_2.
+[2022.04.10-05.35.25:048][934]LogContentBrowser: Deferred new asset file creation: NewSoundCue
+[2022.04.10-05.35.25:060][934]LogContentBrowser: Creating deferred item: NewSoundCue
+[2022.04.10-05.35.42:966][668]LogContentBrowser: Attempting asset rename: NewSoundCue -> S_Achievement_Tone
+[2022.04.10-05.35.43:021][668]LogContentBrowser: End creating deferred item NewSoundCue
+[2022.04.10-05.35.45:106][748]LogAssetEditorSubsystem: Opening Asset editor for SoundCue /Game/MichaelM/Audio/S_Achievement_Tone.S_Achievement_Tone
+[2022.04.10-05.35.45:415][748]LogSlate: Took 0.013775 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.04.10-05.35.54:422][ 78]LogSlate: Window 'S_Achievement_Tone' being destroyed
+[2022.04.10-05.37.11:174][900]LogAudio: Display: Cached duration for Sound Cue SoundCue /Game/MichaelM/Audio/S_Achievement_Tone.S_Achievement_Tone was zero and has changed. Consider manually Re-saving the asset
+[2022.04.10-05.39.26:905][669]LogAudio: Display: Cached duration for Sound Cue SoundCue /Game/MichaelM/Audio/S_Achievement_Tone.S_Achievement_Tone was zero and has changed. Consider manually Re-saving the asset
+[2022.04.10-05.39.32:536][306]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MichaelM/Audio/S_Achievement_Tone" FILE="../../../../../Unity Projects/Directors-Hotel/HorrorEngine/Content/MichaelM/Audio/S_Achievement_Tone.uasset" SILENT=true
+[2022.04.10-05.39.32:543][306]LogSavePackage: Moving '../../../../../Unity Projects/Directors-Hotel/HorrorEngine/Saved/S_Achievement_ToneAFCE7ABF4B349C99DB3F7F8E6D1A2446.tmp' to '../../../../../Unity Projects/Directors-Hotel/HorrorEngine/Content/MichaelM/Audio/S_Achievement_Tone.uasset'
+[2022.04.10-05.39.32:561][306]AssetCheck: New page: Asset Save: S_Achievement_Tone
+[2022.04.10-05.39.32:562][306]LogContentValidation: Display: Validating SoundCue /Game/MichaelM/Audio/S_Achievement_Tone.S_Achievement_Tone
+[2022.04.10-05.39.52:224][608]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MichaelM/Audio/S_Achievement_Tone" FILE="../../../../../Unity Projects/Directors-Hotel/HorrorEngine/Content/MichaelM/Audio/S_Achievement_Tone.uasset" SILENT=true
+[2022.04.10-05.39.52:230][608]LogSavePackage: Moving '../../../../../Unity Projects/Directors-Hotel/HorrorEngine/Saved/S_Achievement_Tone0E9CD9684287D5BF8D11EA8120FD6922.tmp' to '../../../../../Unity Projects/Directors-Hotel/HorrorEngine/Content/MichaelM/Audio/S_Achievement_Tone.uasset'
+[2022.04.10-05.39.52:245][608]AssetCheck: New page: Asset Save: S_Achievement_Tone
+[2022.04.10-05.39.52:245][608]LogContentValidation: Display: Validating SoundCue /Game/MichaelM/Audio/S_Achievement_Tone.S_Achievement_Tone
+[2022.04.10-05.40.39:526][350]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2022.04.10-05.40.39:533][350]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/HorrorEngine/Maps/Overview' took 0.020
+[2022.04.10-05.40.39:533][350]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MichaelM/Audio/Piano_1] ([1] browsable assets)...
+[2022.04.10-05.40.39:537][350]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/MichaelM/Audio/Piano_1.Piano_1]
+[2022.04.10-05.40.39:537][350]OBJ SavePackage: Finished generating thumbnails for package [/Game/MichaelM/Audio/Piano_1]
+[2022.04.10-05.40.39:543][350]LogSavePackage: Moving '../../../../../Unity Projects/Directors-Hotel/HorrorEngine/Saved/Piano_1_Auto4ABF067684D85991A302BC480342CC4D1.tmp' to '../../../../../Unity Projects/Directors-Hotel/HorrorEngine/Saved/Autosaves/Game/MichaelM/Audio/Piano_1_Auto4.uasset'
+[2022.04.10-05.40.39:544][350]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MichaelM/Audio/Piano_2] ([1] browsable assets)...
+[2022.04.10-05.40.39:552][350]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/MichaelM/Audio/Piano_2.Piano_2]
+[2022.04.10-05.40.39:552][350]OBJ SavePackage: Finished generating thumbnails for package [/Game/MichaelM/Audio/Piano_2]
+[2022.04.10-05.40.39:571][350]LogSavePackage: Moving '../../../../../Unity Projects/Directors-Hotel/HorrorEngine/Saved/Piano_2_Auto4207E4C8348B609BA0FB1BF897CDD9509.tmp' to '../../../../../Unity Projects/Directors-Hotel/HorrorEngine/Saved/Autosaves/Game/MichaelM/Audio/Piano_2_Auto4.uasset'
+[2022.04.10-05.40.39:573][350]LogFileHelpers: Auto-saving content packages took 0.040
+[2022.04.10-05.53.19:656][622]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave Sus_Piano...
+[2022.04.10-05.53.19:657][622]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/MichaelM/Audio/Sus_Piano.Sus_Piano will be modified from 40 to 40.
+[2022.04.10-05.53.19:824][622]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 2314696 while cooking SoundWave /Game/MichaelM/Audio/Sus_Piano.Sus_Piano.
+[2022.04.10-05.54.09:146][120]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\monst\OneDrive\Desktop\School\Audio\Piano Full.wav)
+[2022.04.10-05.54.19:387][120]LogSlate: Window 'Message' being destroyed
+[2022.04.10-05.54.19:392][120]Message dialog closed, result: No, title: Message, text: Use the selected Sound Wave 'Piano_2' in the Content Browser as a template for sound(s) being imported?
+[2022.04.10-05.54.21:698][207]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave Piano_Full...
+[2022.04.10-05.54.21:698][207]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/MichaelM/Audio/Piano_Full.Piano_Full will be modified from 40 to 40.
+[2022.04.10-05.54.21:750][207]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 617400 while cooking SoundWave /Game/MichaelM/Audio/Piano_Full.Piano_Full.
+[2022.04.10-05.54.22:543][236]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2022.04.10-05.54.22:546][236]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/HorrorEngine/Maps/Overview' took 0.014
+[2022.04.10-05.54.22:547][236]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MichaelM/Audio/Piano_Full] ([1] browsable assets)...
+[2022.04.10-05.54.22:554][236]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/MichaelM/Audio/Piano_Full.Piano_Full]
+[2022.04.10-05.54.22:554][236]OBJ SavePackage: Finished generating thumbnails for package [/Game/MichaelM/Audio/Piano_Full]
+[2022.04.10-05.54.22:561][236]LogSavePackage: Moving '../../../../../Unity Projects/Directors-Hotel/HorrorEngine/Saved/Piano_Full_Auto59D8CDD7C49AD9064498259953D6AED08.tmp' to '../../../../../Unity Projects/Directors-Hotel/HorrorEngine/Saved/Autosaves/Game/MichaelM/Audio/Piano_Full_Auto5.uasset'
+[2022.04.10-05.54.22:562][236]LogFileHelpers: Auto-saving content packages took 0.015
+[2022.04.10-05.54.28:852][490]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2022.04.10-05.54.30:287][490]LogSlate: Window 'Delete Assets' being destroyed
+[2022.04.10-05.54.30:363][490]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2022.04.10-05.54.37:400][644]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\monst\OneDrive\Desktop\School\Audio\Piano Full.wav)
+[2022.04.10-05.54.42:973][805]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave Piano_Full...
+[2022.04.10-05.54.42:974][805]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/MichaelM/Audio/Piano_Full.Piano_Full will be modified from 40 to 40.
+[2022.04.10-05.54.43:025][805]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 617400 while cooking SoundWave /Game/MichaelM/Audio/Piano_Full.Piano_Full.
+[2022.04.10-05.55.12:241][ 52]LogAudioEditor: Performing atomic reimport of [C:/Users/monst/OneDrive/Desktop/School/Audio/Piano Full.wav]
+[2022.04.10-05.55.12:258][ 52]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/monst/OneDrive/Desktop/School/Audio/Piano Full.wav)
+[2022.04.10-05.55.12:441][ 52]LogAudioEditor: -- imported successfully
+[2022.04.10-05.55.12:478][ 52]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave Piano_Full...
+[2022.04.10-05.55.12:480][ 52]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/MichaelM/Audio/Piano_Full.Piano_Full will be modified from 40 to 40.
+[2022.04.10-05.55.12:856][ 52]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 617400 to 5226952 while cooking SoundWave /Game/MichaelM/Audio/Piano_Full.Piano_Full.
+[2022.04.10-05.56.12:614][621]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\monst\Downloads\434975__lost-dream__dark-suspense.wav)
+[2022.04.10-05.57.49:341][940]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.10-05.57.49:400][940]LogFMOD: Default sample rate = 48000
+[2022.04.10-05.57.49:400][940]LogFMOD: System sample rate = 44100
+[2022.04.10-05.57.49:400][940]LogFMOD: Matching system sample rate 44100
+[2022.04.10-05.57.49:415][940]LogFMOD: Warning: Master bank (Master.bank) not found.
+[2022.04.10-05.57.49:453][940]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.10-05.57.49:453][940]PIE: New page: PIE session: Overview (11 Apr 2022, 1:57:49 am)
+[2022.04.10-05.57.49:453][940]LogPlayLevel: Creating play world package: /Game/HorrorEngine/Maps/UEDPIE_0_Overview
+[2022.04.10-05.57.49:564][940]LogPlayLevel: PIE: StaticDuplicateObject took: (0.110676s)
+[2022.04.10-05.57.49:565][940]LogAIModule: Creating AISystem for world Overview
+[2022.04.10-05.57.49:565][940]LogPlayLevel: PIE: World Init took: (0.001272s)
+[2022.04.10-05.57.49:565][940]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/HorrorEngine/Maps/Overview.Overview to /Game/HorrorEngine/Maps/UEDPIE_0_Overview.Overview (0.112125s)
+[2022.04.10-05.57.49:578][940]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2022.04.10-05.57.49:583][940]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2022.04.10-05.57.49:583][940]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.10-05.57.49:583][940]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.10-05.57.49:583][940]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.10-05.57.49:583][940]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.10-05.57.49:583][940]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.10-05.57.49:583][940]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.10-05.57.49:583][940]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.10-05.57.49:583][940]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.10-05.57.49:583][940]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.04.10-05.57.49:583][940]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.04.10-05.57.49:583][940]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.10-05.57.49:583][940]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.10-05.57.49:591][940]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.10-05.57.49:591][940]LogAudioMixer: Display: 1: FrontRight
+[2022.04.10-05.57.49:591][940]LogAudioMixer: Display: 2: FrontCenter
+[2022.04.10-05.57.49:591][940]LogAudioMixer: Display: 3: LowFrequency
+[2022.04.10-05.57.49:591][940]LogAudioMixer: Display: 4: BackLeft
+[2022.04.10-05.57.49:591][940]LogAudioMixer: Display: 5: BackRight
+[2022.04.10-05.57.49:591][940]LogAudioMixer: Display: 6: SideLeft
+[2022.04.10-05.57.49:591][940]LogAudioMixer: Display: 7: SideRight
+[2022.04.10-05.57.49:600][940]LogAudioMixer: Display: Using Audio Device Speakers (Logitech PRO X Gaming Headset)
+[2022.04.10-05.57.49:600][940]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.10-05.57.49:600][940]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.10-05.57.49:600][940]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.10-05.57.49:601][940]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.10-05.57.49:601][940]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.10-05.57.49:601][940]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2022.04.10-05.57.49:602][940]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.10-05.57.49:602][940]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.10-05.57.49:602][940]LogInit: FAudioDevice initialized.
+[2022.04.10-05.57.49:602][940]LogAudio: Display: Audio Device (ID: 6) registered with world 'Overview'.
+[2022.04.10-05.57.49:609][940]LogLoad: Game class is 'HorrorEngineGameMode_C'
+[2022.04.10-05.57.49:632][940]LogWorld: Bringing World /Game/HorrorEngine/Maps/UEDPIE_0_Overview.Overview up for play (max tick rate 0) at 2022.04.10-15.57.49
+[2022.04.10-05.57.49:633][940]LogWorld: Bringing up level for play took: 0.020480
+[2022.04.10-05.57.49:633][940]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2022.04.10-05.57.49:635][940]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.04.10-05.57.49:640][940]LogStreaming: Warning: Failed to read file '../../../../../Unity Projects/Directors-Hotel/HorrorEngine/Saved/SaveGames/SaveSlotList.sav' error.
+[2022.04.10-05.57.49:655][940]PIE: Server logged in
+[2022.04.10-05.57.49:656][940]PIE: Play in editor total start time 0.307 seconds.
+[2022.04.10-05.57.51:333][  9]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsWithTag_OutActors_1' of length 0 in '/Game/HorrorEngine/Blueprints/Core/HorrorEvents.HorrorEvents_C:ExecuteUbergraph_HorrorEvents'!
+[2022.04.10-05.57.51:333][  9]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsWithTag_OutActors_1' of length 0 in '/Game/HorrorEngine/Blueprints/Core/HorrorEvents.HorrorEvents_C:ExecuteUbergraph_HorrorEvents'!
+[2022.04.10-05.57.52:617][ 61]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.10-05.57.52:617][ 61]LogWorld: BeginTearingDown for /Game/HorrorEngine/Maps/UEDPIE_0_Overview
+[2022.04.10-05.57.52:618][ 61]LogWorld: UWorld::CleanupWorld for Overview, bSessionEnded=true, bCleanupResources=true
+[2022.04.10-05.57.52:621][ 61]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.10-05.57.52:630][ 61]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.10-05.57.52:638][ 61]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.10-05.57.52:652][ 61]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.10-05.57.52:652][ 61]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.10-05.57.52:653][ 61]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.10-05.57.52:656][ 61]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.10-05.57.52:666][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2022.04.10-05.57.52:707][ 62]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2022.04.10-06.03.34:155][854]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\monst\OneDrive\Desktop\School\Audio\Footsteps.wav)
+[2022.04.10-06.03.57:098][410]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MichaelM/Audio/Footsteps" FILE="../../../../../Unity Projects/Directors-Hotel/HorrorEngine/Content/MichaelM/Audio/Footsteps.uasset" SILENT=true
+[2022.04.10-06.03.57:105][410]LogSavePackage: Moving '../../../../../Unity Projects/Directors-Hotel/HorrorEngine/Saved/FootstepsD8916EF44B22764255AEFB9DBA330F80.tmp' to '../../../../../Unity Projects/Directors-Hotel/HorrorEngine/Content/MichaelM/Audio/Footsteps.uasset'
+[2022.04.10-06.03.57:164][410]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2022.04.10-06.03.57:186][410]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2022.04.10-06.03.57:196][410]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2022.04.10-06.03.57:369][410]AssetCheck: New page: Asset Save: Footsteps
+[2022.04.10-06.03.57:369][410]LogContentValidation: Display: Validating SoundWave /Game/MichaelM/Audio/Footsteps.Footsteps
+[2022.04.10-06.04.47:840][194]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.04.10-06.04.47:885][194]LogContentBrowser: Creating deferred item: NewFolder
+[2022.04.10-06.04.55:584][504]LogContentBrowser: Attempting asset rename: NewFolder -> Levels
+[2022.04.10-06.04.55:585][504]LogContentBrowser: End creating deferred item NewFolder
+[2022.04.10-06.05.02:512][758]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.04.10-06.05.02:525][758]LogContentBrowser: Creating deferred item: NewFolder
+[2022.04.10-06.05.04:812][848]LogContentBrowser: Attempting asset rename: NewFolder -> Widgets
+[2022.04.10-06.05.04:812][848]LogContentBrowser: End creating deferred item NewFolder
+[2022.04.10-06.05.07:125][936]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.04.10-06.05.07:139][936]LogContentBrowser: Creating deferred item: NewFolder
+[2022.04.10-06.05.15:076][260]LogContentBrowser: Attempting asset rename: NewFolder -> Blueprints
+[2022.04.10-06.05.15:076][260]LogContentBrowser: End creating deferred item NewFolder
+[2022.04.10-06.05.23:963][574]LogContentBrowser: Deferred new asset file creation: NewWorld
+[2022.04.10-06.05.23:976][574]LogContentBrowser: Creating deferred item: NewWorld
+[2022.04.10-06.05.34:647][996]LogContentBrowser: Attempting asset rename: NewWorld -> NewWorld
+[2022.04.10-06.05.35:459][996]LogContentBrowser: End creating deferred item NewWorld
+[2022.04.10-06.05.36:994][ 55]LogObjectTools: Deleting 1 worlds: /Game/MichaelM/Levels/NewWorld.NewWorld
+[2022.04.10-06.05.36:994][ 55]LogObjectTools: Currently 3 active worlds: /Game/HorrorEngine/Maps/Overview.Overview, /Engine/Transient.World_0, /Engine/Transient.World_1
+[2022.04.10-06.05.37:008][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2022.04.10-06.05.38:135][ 55]LogSlate: Window 'Delete Assets' being destroyed
+[2022.04.10-06.05.38:149][ 55]LogWorld: UWorld::CleanupWorld for NewWorld, bSessionEnded=true, bCleanupResources=true
+[2022.04.10-06.05.38:149][ 55]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.10-06.05.38:202][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2022.04.10-06.05.54:491][665]LogContentBrowser: Deferred new asset file creation: NewWorld
+[2022.04.10-06.05.54:503][665]LogContentBrowser: Creating deferred item: NewWorld
+[2022.04.10-06.06.02:516][975]LogContentBrowser: Attempting asset rename: NewWorld -> Main_Menu
+[2022.04.10-06.06.02:538][975]LogContentBrowser: End creating deferred item NewWorld
+[2022.04.10-06.06.04:024][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2022.04.10-06.06.05:894][ 33]LogSlate: Window 'Save Content' being destroyed
+[2022.04.10-06.06.05:961][ 33]LogSavePackage: Moving '../../../../../Unity Projects/Directors-Hotel/HorrorEngine/Saved/434975__lost-dream__dark-suspensF7A6ED454215B18859933184576D8ACB.tmp' to '../../../../../Unity Projects/Directors-Hotel/HorrorEngine/Content/MichaelM/Audio/434975__lost-dream__dark-suspense.uasset'
+[2022.04.10-06.06.05:974][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2022.04.10-06.06.05:981][ 33]LogSavePackage: Moving '../../../../../Unity Projects/Directors-Hotel/HorrorEngine/Saved/Main_Menu6C340EE548B20D7B8FE8508A046DE9A1.tmp' to '../../../../../Unity Projects/Directors-Hotel/HorrorEngine/Content/MichaelM/Levels/Main_Menu.umap'
+[2022.04.10-06.06.05:982][ 33]LogFileHelpers: Saving map 'Main_Menu' took 0.020
+[2022.04.10-06.06.05:983][ 33]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MichaelM/Audio/Piano_1" FILE="../../../../../Unity Projects/Directors-Hotel/HorrorEngine/Content/MichaelM/Audio/Piano_1.uasset" SILENT=true
+[2022.04.10-06.06.05:988][ 33]LogSavePackage: Moving '../../../../../Unity Projects/Directors-Hotel/HorrorEngine/Saved/Piano_193FE9FF54B9D4F178C6CD8928C7C9BE7.tmp' to '../../../../../Unity Projects/Directors-Hotel/HorrorEngine/Content/MichaelM/Audio/Piano_1.uasset'
+[2022.04.10-06.06.05:989][ 33]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MichaelM/Audio/Piano_2" FILE="../../../../../Unity Projects/Directors-Hotel/HorrorEngine/Content/MichaelM/Audio/Piano_2.uasset" SILENT=true
+[2022.04.10-06.06.05:995][ 33]LogSavePackage: Moving '../../../../../Unity Projects/Directors-Hotel/HorrorEngine/Saved/Piano_21BF588FC427DC04C3FC81C91A87153D2.tmp' to '../../../../../Unity Projects/Directors-Hotel/HorrorEngine/Content/MichaelM/Audio/Piano_2.uasset'
+[2022.04.10-06.06.06:003][ 33]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MichaelM/Audio/Piano_Full" FILE="../../../../../Unity Projects/Directors-Hotel/HorrorEngine/Content/MichaelM/Audio/Piano_Full.uasset" SILENT=true
+[2022.04.10-06.06.06:011][ 33]LogSavePackage: Moving '../../../../../Unity Projects/Directors-Hotel/HorrorEngine/Saved/Piano_FullE90CD86D4AF57BFF9A3805A12096E4DE.tmp' to '../../../../../Unity Projects/Directors-Hotel/HorrorEngine/Content/MichaelM/Audio/Piano_Full.uasset'
+[2022.04.10-06.06.06:012][ 33]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MichaelM/Audio/Sus_Piano" FILE="../../../../../Unity Projects/Directors-Hotel/HorrorEngine/Content/MichaelM/Audio/Sus_Piano.uasset" SILENT=true
+[2022.04.10-06.06.06:018][ 33]LogSavePackage: Moving '../../../../../Unity Projects/Directors-Hotel/HorrorEngine/Saved/Sus_Piano1F6039AF4AF83DB7814590970368D77E.tmp' to '../../../../../Unity Projects/Directors-Hotel/HorrorEngine/Content/MichaelM/Audio/Sus_Piano.uasset'
+[2022.04.10-06.06.06:058][ 33]LogAssetEditorSubsystem: Opening Asset editor for World /Game/MichaelM/Levels/Main_Menu.Main_Menu
+[2022.04.10-06.06.06:059][ 33]Cmd: MAP LOAD FILE="../../../../../Unity Projects/Directors-Hotel/HorrorEngine/Content/MichaelM/Levels/Main_Menu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.04.10-06.06.06:059][ 33]LightingResults: New page: Lighting Build
+[2022.04.10-06.06.06:059][ 33]LoadErrors: New page: Loading map: Main_Menu.umap
+[2022.04.10-06.06.06:067][ 33]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: InstancedStaticMeshComponent /Game/HorrorEngine/Maps/Overview.Overview:PersistentLevel.LadderAdvanced_359.LadderConnect)
+[2022.04.10-06.06.06:067][ 33]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: InstancedStaticMeshComponent /Game/HorrorEngine/Maps/Overview.Overview:PersistentLevel.LadderAdvanced3_512.LadderConnect)
+[2022.04.10-06.06.06:116][ 33]LogWorld: UWorld::CleanupWorld for Overview, bSessionEnded=true, bCleanupResources=true
+[2022.04.10-06.06.06:116][ 33]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.10-06.06.06:116][ 33]MapCheck: New page: Map Check
+[2022.04.10-06.06.06:116][ 33]LightingResults: New page: Lighting Build
+[2022.04.10-06.06.06:125][ 33]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.10-06.06.06:155][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2022.04.10-06.06.06:159][ 33]LogAudio: Display: Audio Device (ID: 1) registered with world 'Main_Menu'.
+[2022.04.10-06.06.06:237][ 33]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.04.10-06.06.06:237][ 33]LogAIModule: Creating AISystem for world Main_Menu
+[2022.04.10-06.06.06:247][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2022.04.10-06.06.06:256][ 33]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.04.10-06.06.06:256][ 33]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.086ms to complete.
+[2022.04.10-06.06.06:256][ 33]LogFileHelpers: Loading map 'Main_Menu' took 0.197
+[2022.04.10-06.06.06:284][ 33]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.10-06.06.06:284][ 33]LogContentValidation: Display: Validating World /Game/MichaelM/Levels/Main_Menu.Main_Menu
+[2022.04.10-06.06.06:284][ 33]LogContentValidation: Display: Validating SoundWave /Game/MichaelM/Audio/434975__lost-dream__dark-suspense.434975__lost-dream__dark-suspense
+[2022.04.10-06.06.06:284][ 33]LogContentValidation: Display: Validating SoundWave /Game/MichaelM/Audio/Piano_2.Piano_2
+[2022.04.10-06.06.06:284][ 33]LogContentValidation: Display: Validating SoundWave /Game/MichaelM/Audio/Piano_1.Piano_1
+[2022.04.10-06.06.06:284][ 33]LogContentValidation: Display: Validating SoundWave /Game/MichaelM/Audio/Sus_Piano.Sus_Piano
+[2022.04.10-06.06.06:284][ 33]LogContentValidation: Display: Validating SoundWave /Game/MichaelM/Audio/Piano_Full.Piano_Full
+[2022.04.10-06.06.45:094][604]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.10-06.06.45:150][604]LogFMOD: Default sample rate = 48000
+[2022.04.10-06.06.45:150][604]LogFMOD: System sample rate = 44100
+[2022.04.10-06.06.45:150][604]LogFMOD: Matching system sample rate 44100
+[2022.04.10-06.06.45:165][604]LogFMOD: Warning: Master bank (Master.bank) not found.
+[2022.04.10-06.06.45:203][604]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.10-06.06.45:203][604]PIE: New page: PIE session: Main_Menu (11 Apr 2022, 2:06:45 am)
+[2022.04.10-06.06.45:203][604]LogPlayLevel: Creating play world package: /Game/MichaelM/Levels/UEDPIE_0_Main_Menu
+[2022.04.10-06.06.45:204][604]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000702s)
+[2022.04.10-06.06.45:204][604]LogAIModule: Creating AISystem for world Main_Menu
+[2022.04.10-06.06.45:205][604]LogPlayLevel: PIE: World Init took: (0.000886s)
+[2022.04.10-06.06.45:205][604]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MichaelM/Levels/Main_Menu.Main_Menu to /Game/MichaelM/Levels/UEDPIE_0_Main_Menu.Main_Menu (0.001697s)
+[2022.04.10-06.06.45:215][604]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2022.04.10-06.06.45:218][604]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2022.04.10-06.06.45:218][604]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.10-06.06.45:218][604]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.10-06.06.45:218][604]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.10-06.06.45:218][604]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.10-06.06.45:218][604]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.10-06.06.45:218][604]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.10-06.06.45:218][604]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.10-06.06.45:218][604]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.10-06.06.45:218][604]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.04.10-06.06.45:218][604]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.04.10-06.06.45:218][604]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.10-06.06.45:218][604]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.10-06.06.45:226][604]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.10-06.06.45:226][604]LogAudioMixer: Display: 1: FrontRight
+[2022.04.10-06.06.45:226][604]LogAudioMixer: Display: 2: FrontCenter
+[2022.04.10-06.06.45:226][604]LogAudioMixer: Display: 3: LowFrequency
+[2022.04.10-06.06.45:226][604]LogAudioMixer: Display: 4: BackLeft
+[2022.04.10-06.06.45:226][604]LogAudioMixer: Display: 5: BackRight
+[2022.04.10-06.06.45:226][604]LogAudioMixer: Display: 6: SideLeft
+[2022.04.10-06.06.45:226][604]LogAudioMixer: Display: 7: SideRight
+[2022.04.10-06.06.45:236][604]LogAudioMixer: Display: Using Audio Device Speakers (Logitech PRO X Gaming Headset)
+[2022.04.10-06.06.45:236][604]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.10-06.06.45:236][604]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.10-06.06.45:236][604]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.10-06.06.45:237][604]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.10-06.06.45:237][604]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.10-06.06.45:237][604]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2022.04.10-06.06.45:238][604]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.10-06.06.45:238][604]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.10-06.06.45:238][604]LogInit: FAudioDevice initialized.
+[2022.04.10-06.06.45:238][604]LogAudio: Display: Audio Device (ID: 7) registered with world 'Main_Menu'.
+[2022.04.10-06.06.45:247][604]LogLoad: Game class is 'HorrorEngineGameMode_C'
+[2022.04.10-06.06.45:251][604]LogWorld: Bringing World /Game/MichaelM/Levels/UEDPIE_0_Main_Menu.Main_Menu up for play (max tick rate 0) at 2022.04.10-16.06.45
+[2022.04.10-06.06.45:251][604]LogWorld: Bringing up level for play took: 0.000362
+[2022.04.10-06.06.45:251][604]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2022.04.10-06.06.45:253][604]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.04.10-06.06.45:255][604]LogStreaming: Warning: Failed to read file '../../../../../Unity Projects/Directors-Hotel/HorrorEngine/Saved/SaveGames/SaveSlotList.sav' error.
+[2022.04.10-06.06.45:257][604]PIE: Server logged in
+[2022.04.10-06.06.45:258][604]PIE: Play in editor total start time 0.157 seconds.
+[2022.04.10-06.06.45:946][664]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.10-06.06.45:947][664]LogWorld: BeginTearingDown for /Game/MichaelM/Levels/UEDPIE_0_Main_Menu
+[2022.04.10-06.06.45:947][664]LogWorld: UWorld::CleanupWorld for Main_Menu, bSessionEnded=true, bCleanupResources=true
+[2022.04.10-06.06.45:947][664]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.10-06.06.45:958][664]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.10-06.06.45:961][664]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.10-06.06.45:969][664]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.10-06.06.45:970][664]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.10-06.06.45:971][664]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.10-06.06.45:975][664]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2022.04.10-06.06.45:993][665]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2022.04.10-06.06.50:273][135]LogActorFactory: Actor Factory created Plane
+[2022.04.10-06.06.52:709][401]LogActorFactory: Actor Factory created Plane
+[2022.04.10-06.06.57:907][993]Cmd: TRANSACTION UNDO
+[2022.04.10-06.06.57:907][993]LogEditorTransaction: Undo Move Actors
+[2022.04.10-06.06.59:910][183]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2022.04.10-06.06.59:920][183]LogSavePackage: Moving '../../../../../Unity Projects/Directors-Hotel/HorrorEngine/Saved/Main_MenuFE67FA3744F5C9E53E56A4BD80B3C7A1.tmp' to '../../../../../Unity Projects/Directors-Hotel/HorrorEngine/Content/MichaelM/Levels/Main_Menu.umap'
+[2022.04.10-06.06.59:960][183]AssetCheck: New page: Asset Save: Main_Menu
+[2022.04.10-06.06.59:960][183]LogContentValidation: Display: Validating World /Game/MichaelM/Levels/Main_Menu.Main_Menu
+[2022.04.10-06.07.03:359][574]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2022.04.10-06.07.04:032][652]Cmd: DELETE
+[2022.04.10-06.07.04:032][652]Cmd: ACTOR DELETE
+[2022.04.10-06.07.04:034][652]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.10-06.07.04:043][652]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.04.10-06.07.04:044][652]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2022.04.10-06.07.13:867][787]LogActorFactory: Actor Factory created Cube
+[2022.04.10-06.07.15:103][931]LogActorFactory: Actor Factory created Cube
+[2022.04.10-06.07.32:256][826]LogEditorViewport: Clicking Background
+[2022.04.10-06.07.33:427][949]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2022.04.10-06.08.01:558][ 68]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2022.04.10-06.08.11:550][160]Cmd: DELETE
+[2022.04.10-06.08.11:550][160]Cmd: ACTOR DELETE
+[2022.04.10-06.08.11:569][160]LogEditorActor: Deleted Actor: SkyAtmosphere
+[2022.04.10-06.08.11:583][160]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2022.04.10-06.08.11:588][160]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2022.04.10-06.13.35:314][697]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2022.04.10-06.14.00:591][611]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2022.04.10-06.14.05:990][227]LogEditorViewport: Clicking on Actor (LMB): SkyLight (SkyLight)
+[2022.04.10-06.14.07:362][376]Cmd: DELETE
+[2022.04.10-06.14.07:362][376]Cmd: ACTOR DELETE
+[2022.04.10-06.14.08:233][376]LogEditorActor: Deleted Actor: SkyLight
+[2022.04.10-06.14.08:244][376]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2022.04.10-06.14.08:250][376]LogEditorActor: Deleted 1 Actors (0.888 secs)
+[2022.04.10-06.14.33:063][291]Cmd: DELETE
+[2022.04.10-06.14.33:063][291]Cmd: ACTOR DELETE
+[2022.04.10-06.14.34:199][291]LogEditorActor: Deleted Actor: PostProcessVolume
+[2022.04.10-06.14.34:208][291]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2022.04.10-06.14.34:211][291]LogEditorActor: Deleted 1 Actors (1.148 secs)
+[2022.04.10-06.14.41:407][137]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2022.04.10-06.14.42:363][232]Cmd: DELETE
+[2022.04.10-06.14.42:363][232]Cmd: ACTOR DELETE
+[2022.04.10-06.14.42:364][232]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.10-06.14.42:374][232]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2022.04.10-06.14.42:376][232]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2022.04.10-06.15.44:966][ 35]LogTexture: Display: Building textures: T_CarpetFloor_02_ORM (OODLE_AutoDXT, 2048X2048)
+[2022.04.10-06.15.44:967][ 35]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.04.10-06.15.44:967][ 35]LogTexture: Display: Building textures: T_CarpetFloor_mask (BGRA8, 3545X3545)
+[2022.04.10-06.15.44:967][ 35]LogTexture: Display: Building textures: T_CarpetFloor_02_D (OODLE_AutoDXT, 2048X2048)
+[2022.04.10-06.15.44:967][ 35]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.04.10-06.15.44:967][ 35]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.04.10-06.15.44:967][ 35]LogTexture: Display: Building textures: T_CarpetFloor_02_N (OODLE_BC5, 2048X2048)
+[2022.04.10-06.15.44:967][ 35]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.04.10-06.15.44:967][ 35]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.04.10-06.15.44:967][ 35]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.04.10-06.15.44:967][ 35]LogTexture: Display: Building textures: T_WallPaper_02_mask (OODLE_AutoDXT, 2048X2048)
+[2022.04.10-06.15.44:967][ 35]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.04.10-06.15.44:967][ 35]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.04.10-06.15.44:967][ 35]LogTexture: Display: Building textures: T_Frame_01_D (OODLE_AutoDXT, 2048X2048)
+[2022.04.10-06.15.44:967][ 35]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.04.10-06.15.44:967][ 35]LogTexture: Display: Building textures: T_Frame_01_N (OODLE_BC5, 2048X2048)
+[2022.04.10-06.15.44:967][ 35]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.04.10-06.15.44:967][ 35]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.04.10-06.15.44:967][ 35]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.04.10-06.15.44:967][ 35]LogTexture: Display: Building textures: T_Frame_01_ORM (OODLE_AutoDXT, 2048X2048)
+[2022.04.10-06.15.44:967][ 35]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.04.10-06.15.44:967][ 35]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.04.10-06.15.44:967][ 35]LogMaterial: Display: Missing cached shadermap for M_Master_Walls in PCD3D_SM5, Default, SM5 (DDC key hash: CC1D6F88B49BC6E7F0B87FFA13ECE9716B679B53), compiling. 
+[2022.04.10-06.15.44:986][ 35]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2022.04.10-06.15.44:986][ 35]LogStaticMesh: Building static mesh SM_Floor_01...
+[2022.04.10-06.15.44:998][ 35]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 25
+[2022.04.10-06.15.44:998][ 35]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 15
+[2022.04.10-06.15.44:998][ 35]LogShaderCompilers: Display: Started 20 'Local' shader compile jobs with 'Low' priority
+[2022.04.10-06.15.45:005][ 35]LogStaticMesh: Built static mesh [0.02s] /Game/CheapHotel/Mesh/ModularInterior/SM_Floor_01.SM_Floor_01
+[2022.04.10-06.15.45:032][ 35]LogMaterial: Display: Missing cached shadermap for MI_CarpetFloor_01 in PCD3D_SM5, Default, SM5 (DDC key hash: 1511FDED95344353125162E946553116DE15A947), compiling. 
+[2022.04.10-06.15.45:084][ 35]LogActorFactory: Actor Factory created SM_Floor_01
+[2022.04.10-06.15.46:080][150]LogActorFactory: Actor Factory created SM_Floor_01
+[2022.04.10-06.15.48:859][451]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 5
+[2022.04.10-06.15.48:859][451]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Low' priority
+[2022.04.10-06.15.48:867][451]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.04.10-06.15.48:867][451]LogShaderCompilers: Display: Total job queries 21408, among them cache hits 19528 (91.22%)
+[2022.04.10-06.15.48:867][451]LogShaderCompilers: Display: Tracking 1840 distinct input hashes that result in 1072 distinct outputs (58.26%)
+[2022.04.10-06.15.48:867][451]LogShaderCompilers: Display: RAM used: 7.04 MB (0.01 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.86%
+[2022.04.10-06.15.48:867][451]LogShaderCompilers: Display: ================================================
+[2022.04.10-06.15.49:385][486]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2
+[2022.04.10-06.15.49:385][486]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2022.04.10-06.16.00:213][708]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_2)
+[2022.04.10-06.16.01:049][795]Cmd: DELETE
+[2022.04.10-06.16.01:049][795]Cmd: ACTOR DELETE
+[2022.04.10-06.16.01:050][795]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.10-06.16.01:060][795]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2022.04.10-06.16.01:068][795]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2022.04.10-06.16.01:488][845]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_01)
+[2022.04.10-06.16.04:737][227]Cmd: TRANSACTION UNDO
+[2022.04.10-06.16.04:737][227]LogEditorTransaction: Undo Scale Actors
+[2022.04.10-06.16.15:715][414]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2022.04.10-06.16.26:678][651]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.04.10-06.16.28:054][799]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_2)
+[2022.04.10-06.16.41:064][241]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2022.04.10-06.16.44:893][669]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2022.04.10-06.16.46:358][831]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.04.10-06.16.48:639][ 67]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.04.10-06.16.52:201][422]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.04.10-06.16.52:864][499]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.04.10-06.16.53:177][535]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2022.04.10-06.17.02:370][336]LogTexture: Display: Building textures: T_ConcreteWall_ORM (OODLE_AutoDXT, 2048X2048)
+[2022.04.10-06.17.02:370][336]LogTexture: Display: Building textures: T_Wood_Rough_D (OODLE_AutoDXT, 2048X2048)
+[2022.04.10-06.17.02:370][336]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.04.10-06.17.02:370][336]LogTexture: Display: Building textures: T_Wood_Rough_N (OODLE_BC5, 2048X2048)
+[2022.04.10-06.17.02:370][336]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.04.10-06.17.02:370][336]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.04.10-06.17.02:370][336]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.04.10-06.17.02:370][336]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.04.10-06.17.02:370][336]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.04.10-06.17.02:370][336]LogTexture: Display: Building textures: T_Wallpaper_01_N (OODLE_BC5, 2048X2048)
+[2022.04.10-06.17.02:370][336]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.04.10-06.17.02:370][336]LogTexture: Display: Building textures: T_WoodPanels_N (OODLE_BC5, 2048X2048)
+[2022.04.10-06.17.02:370][336]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.04.10-06.17.02:370][336]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.04.10-06.17.02:370][336]LogTexture: Display: Building textures: T_WoodPanels_D (OODLE_AutoDXT, 2048X2048)
+[2022.04.10-06.17.02:370][336]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.04.10-06.17.02:370][336]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.04.10-06.17.02:370][336]LogTexture: Display: Building textures: T_WoodPanels_ORM (OODLE_AutoDXT, 2048X2048)
+[2022.04.10-06.17.02:370][336]LogTexture: Display: Building textures: T_TV_Emissive (OODLE_AutoDXT, 1024X1024)
+[2022.04.10-06.17.02:370][336]LogTexture: Display: Building textures: T_WoodWall_D (OODLE_AutoDXT, 2048X2048)
+[2022.04.10-06.17.02:475][336]LogTexture: Display: Building textures: T_Wood_Rough_mask (OODLE_AutoDXT, 2048X2048)
+[2022.04.10-06.17.02:475][336]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.04.10-06.17.03:380][336]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.04.10-06.17.03:380][336]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.04.10-06.17.03:380][336]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.04.10-06.17.03:380][336]LogTexture: Display: Building textures: T_ConcreteWall_D (OODLE_AutoDXT, 2048X2048)
+[2022.04.10-06.17.03:380][336]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.04.10-06.17.03:380][336]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.04.10-06.17.03:380][336]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.04.10-06.17.03:380][336]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.04.10-06.17.03:766][336]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.04.10-06.17.03:766][336]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.04.10-06.17.03:766][336]LogTexture: Display: Building textures: T_WoodWall_ORM (OODLE_AutoDXT, 2048X2048)
+[2022.04.10-06.17.03:766][336]LogTexture: Display: Building textures: T_WoodWall_N (OODLE_BC5, 2048X2048)
+[2022.04.10-06.17.03:879][336]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.04.10-06.17.03:879][336]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.04.10-06.17.03:879][336]LogTexture: Display: Building textures: T_Wood_Rough_ORM (OODLE_AutoDXT, 2048X2048)
+[2022.04.10-06.17.03:879][336]LogTexture: Display: Building textures: T_ConcreteWall_N (OODLE_BC5, 2048X2048)
+[2022.04.10-06.17.03:879][336]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.04.10-06.17.04:435][336]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.04.10-06.17.04:435][336]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.04.10-06.17.04:435][336]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.04.10-06.17.04:435][336]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.04.10-06.17.04:435][336]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.04.10-06.17.04:435][336]LogMaterial: Display: Missing cached shadermap for M_Master_Props in PCD3D_SM5, Default, SM5 (DDC key hash: 9E29C036DD4523949A003CC5505F2042C2BE468C), compiling. 
+[2022.04.10-06.17.04:452][336]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2022.04.10-06.17.04:454][336]LogMaterial: Display: Missing cached shadermap for MI_ConcreteWall_02 in PCD3D_SM5, Default, SM5 (DDC key hash: 086E0BAB5AB1D99C2871C013D30DF9FB39C1D9AF), compiling. 
+[2022.04.10-06.17.04:470][336]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 25
+[2022.04.10-06.17.04:471][336]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 15
+[2022.04.10-06.17.04:471][336]LogShaderCompilers: Display: Started 20 'Local' shader compile jobs with 'Low' priority
+[2022.04.10-06.17.04:471][336]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2022.04.10-06.17.04:472][336]LogMaterial: Display: Missing cached shadermap for MI_Plinth_01 in PCD3D_SM5, Default, SM5 (DDC key hash: 33C7E5839642C9C5FB5B6D2FA65EF0EF6E801DD8), compiling. 
+[2022.04.10-06.17.04:491][336]LogStaticMesh: Building static mesh SM_Wall_C_03...
+[2022.04.10-06.17.04:525][336]LogStaticMesh: Built static mesh [0.03s] /Game/CheapHotel/Mesh/ModularInterior/SM_Wall_C_03.SM_Wall_C_03
+[2022.04.10-06.17.04:548][336]LogActorFactory: Actor Factory created SM_Wall_C_03
+[2022.04.10-06.17.06:933][567]LogActorFactory: Actor Factory created SM_Wall_C_03
+[2022.04.10-06.17.07:937][668]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2022.04.10-06.17.07:938][668]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.04.10-06.17.08:813][763]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2022.04.10-06.17.08:813][763]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.04.10-06.17.08:835][765]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 27
+[2022.04.10-06.17.08:835][765]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.10-06.17.09:151][798]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 17
+[2022.04.10-06.17.09:151][798]LogShaderCompilers: Display: Started 9 'Local' shader compile jobs with 'Normal' priority
+[2022.04.10-06.17.12:472][128]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2022.04.10-06.17.12:486][128]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2022.04.10-06.17.12:486][128]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2022.04.10-06.17.12:575][134]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2022.04.10-06.17.12:575][134]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.04.10-06.17.13:303][204]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2022.04.10-06.17.13:303][204]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.04.10-06.17.19:328][896]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_C_03)
+[2022.04.10-06.17.20:501][ 29]Cmd: DELETE
+[2022.04.10-06.17.20:501][ 29]Cmd: ACTOR DELETE
+[2022.04.10-06.17.20:503][ 29]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.10-06.17.20:513][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2022.04.10-06.17.20:522][ 29]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2022.04.10-06.17.28:096][858]LogStaticMesh: Building static mesh SM_WoodPanel_03...
+[2022.04.10-06.17.28:120][858]LogStaticMesh: Built static mesh [0.02s] /Game/CheapHotel/Mesh/ModularInterior/SM_WoodPanel_03.SM_WoodPanel_03
+[2022.04.10-06.17.28:300][874]LogActorFactory: Actor Factory created SM_WoodPanel_03
+[2022.04.10-06.17.29:858][ 55]LogActorFactory: Actor Factory created SM_WoodPanel_03
+[2022.04.10-06.17.32:672][385]Cmd: DELETE
+[2022.04.10-06.17.32:672][385]Cmd: ACTOR DELETE
+[2022.04.10-06.17.32:673][385]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.10-06.17.32:683][385]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2022.04.10-06.17.32:687][385]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2022.04.10-06.17.51:655][488]LogStaticMesh: Building static mesh SM_Wall_A...
+[2022.04.10-06.17.51:664][488]LogStaticMesh: Built static mesh [0.01s] /Game/CheapHotel/Mesh/ModularInterior/SM_Wall_A.SM_Wall_A
+[2022.04.10-06.17.51:803][497]LogActorFactory: Actor Factory created SM_Wall_A
+[2022.04.10-06.17.53:996][756]LogActorFactory: Actor Factory created SM_Wall_A
+[2022.04.10-06.17.59:880][405]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2022.04.10-06.18.03:847][849]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_A)
+[2022.04.10-06.18.12:779][868]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2022.04.10-06.18.23:290][ 64]LogStaticMesh: Building static mesh SM_WoodPanel_02...
+[2022.04.10-06.18.23:331][ 64]LogStaticMesh: Built static mesh [0.04s] /Game/CheapHotel/Mesh/ModularInterior/SM_WoodPanel_02.SM_WoodPanel_02
+[2022.04.10-06.18.23:528][ 79]LogActorFactory: Actor Factory created SM_WoodPanel_02
+[2022.04.10-06.18.24:887][215]LogActorFactory: Actor Factory created SM_WoodPanel_02
+[2022.04.10-06.18.35:148][380]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2022.04.10-06.18.44:043][349]LogStaticMesh: Building static mesh SM_Wall_C_02...
+[2022.04.10-06.18.44:082][349]LogStaticMesh: Built static mesh [0.04s] /Game/CheapHotel/Mesh/ModularInterior/SM_Wall_C_02.SM_Wall_C_02
+[2022.04.10-06.18.44:395][378]LogActorFactory: Actor Factory created SM_Wall_C_02
+[2022.04.10-06.18.45:263][470]LogActorFactory: Actor Factory created SM_Wall_C_02
+[2022.04.10-06.18.52:611][309]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_A2)
+[2022.04.10-06.18.54:229][499]Cmd: DELETE
+[2022.04.10-06.18.54:229][499]Cmd: ACTOR DELETE
+[2022.04.10-06.18.54:230][499]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.10-06.18.54:240][499]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2022.04.10-06.18.54:246][499]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2022.04.10-06.18.54:524][531]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_A3)
+[2022.04.10-06.18.54:702][548]Cmd: DELETE
+[2022.04.10-06.18.54:702][548]Cmd: ACTOR DELETE
+[2022.04.10-06.18.54:703][548]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.10-06.18.54:712][548]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.04.10-06.18.54:713][548]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2022.04.10-06.18.55:442][634]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_C_02)
+[2022.04.10-06.18.58:675][994]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_A)
+[2022.04.10-06.18.59:613][102]Cmd: DELETE
+[2022.04.10-06.18.59:613][102]Cmd: ACTOR DELETE
+[2022.04.10-06.18.59:614][102]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.10-06.18.59:623][102]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.04.10-06.18.59:625][102]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2022.04.10-06.18.59:991][145]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WoodPanel_02)
+[2022.04.10-06.19.00:163][161]Cmd: DELETE
+[2022.04.10-06.19.00:163][161]Cmd: ACTOR DELETE
+[2022.04.10-06.19.00:164][161]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.10-06.19.00:174][161]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.04.10-06.19.00:175][161]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2022.04.10-06.19.00:775][232]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_C_02)
+[2022.04.10-06.19.21:076][521]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2022.04.10-06.19.33:939][798]LogStaticMesh: Building static mesh SM_Wall_G_02...
+[2022.04.10-06.19.33:984][798]LogStaticMesh: Built static mesh [0.04s] /Game/CheapHotel/Mesh/ModularInterior/SM_Wall_G_02.SM_Wall_G_02
+[2022.04.10-06.19.34:118][807]LogActorFactory: Actor Factory created SM_Wall_G_02
+[2022.04.10-06.19.34:715][866]LogActorFactory: Actor Factory created SM_Wall_G_02
+[2022.04.10-06.19.40:273][510]Cmd: DELETE
+[2022.04.10-06.19.40:273][510]Cmd: ACTOR DELETE
+[2022.04.10-06.19.40:274][510]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.10-06.19.40:284][510]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2022.04.10-06.19.40:288][510]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2022.04.10-06.19.42:826][801]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_C_02)
+[2022.04.10-06.19.43:334][844]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_C_3)
+[2022.04.10-06.19.49:222][516]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2022.04.10-06.19.49:884][592]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_C_02)
+[2022.04.10-06.19.52:174][860]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2022.04.10-06.19.53:112][969]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_C_02)
+[2022.04.10-06.19.56:892][388]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2022.04.10-06.19.57:279][431]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_C_3)
+[2022.04.10-06.20.01:607][924]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2022.04.10-06.20.09:688][833]LogActorFactory: Actor Factory created SM_WoodPanel_02
+[2022.04.10-06.20.10:433][910]LogActorFactory: Actor Factory created SM_WoodPanel_02
+[2022.04.10-06.20.24:681][536]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2022.04.10-06.20.31:411][273]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WoodPanel_02)
+[2022.04.10-06.20.55:716][943]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2022.04.10-06.20.58:296][216]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_C_13)
+[2022.04.10-06.21.04:069][852]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2022.04.10-06.21.11:596][711]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WoodPanel_4)
+[2022.04.10-06.21.16:226][237]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2022.04.10-06.21.18:091][447]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2022.04.10-06.21.21:117][783]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WoodPanel_02)
+[2022.04.10-06.21.31:651][948]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2022.04.10-06.21.35:470][382]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2022.04.10-06.21.46:243][603]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2022.04.10-06.22.04:462][695]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2022.04.10-06.22.11:290][453]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.04.10-06.22.14:152][768]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.04.10-06.22.14:919][845]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.04.10-06.22.16:939][ 57]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.10-06.22.16:991][ 57]LogFMOD: Default sample rate = 48000
+[2022.04.10-06.22.16:991][ 57]LogFMOD: System sample rate = 44100
+[2022.04.10-06.22.16:991][ 57]LogFMOD: Matching system sample rate 44100
+[2022.04.10-06.22.17:008][ 57]LogFMOD: Warning: Master bank (Master.bank) not found.
+[2022.04.10-06.22.17:053][ 57]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.10-06.22.17:053][ 57]PIE: New page: PIE session: Main_Menu (11 Apr 2022, 2:22:17 am)
+[2022.04.10-06.22.17:053][ 57]LogPlayLevel: Creating play world package: /Game/MichaelM/Levels/UEDPIE_0_Main_Menu
+[2022.04.10-06.22.17:056][ 57]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002613s)
+[2022.04.10-06.22.17:056][ 57]LogAIModule: Creating AISystem for world Main_Menu
+[2022.04.10-06.22.17:057][ 57]LogPlayLevel: PIE: World Init took: (0.000942s)
+[2022.04.10-06.22.17:057][ 57]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MichaelM/Levels/Main_Menu.Main_Menu to /Game/MichaelM/Levels/UEDPIE_0_Main_Menu.Main_Menu (0.003672s)
+[2022.04.10-06.22.17:070][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2022.04.10-06.22.17:075][ 57]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2022.04.10-06.22.17:075][ 57]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.10-06.22.17:075][ 57]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.10-06.22.17:075][ 57]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.10-06.22.17:075][ 57]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.10-06.22.17:075][ 57]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.10-06.22.17:075][ 57]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.10-06.22.17:076][ 57]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.10-06.22.17:076][ 57]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.10-06.22.17:076][ 57]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.04.10-06.22.17:076][ 57]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.04.10-06.22.17:076][ 57]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.10-06.22.17:076][ 57]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.10-06.22.17:084][ 57]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.10-06.22.17:084][ 57]LogAudioMixer: Display: 1: FrontRight
+[2022.04.10-06.22.17:084][ 57]LogAudioMixer: Display: 2: FrontCenter
+[2022.04.10-06.22.17:084][ 57]LogAudioMixer: Display: 3: LowFrequency
+[2022.04.10-06.22.17:084][ 57]LogAudioMixer: Display: 4: BackLeft
+[2022.04.10-06.22.17:084][ 57]LogAudioMixer: Display: 5: BackRight
+[2022.04.10-06.22.17:084][ 57]LogAudioMixer: Display: 6: SideLeft
+[2022.04.10-06.22.17:084][ 57]LogAudioMixer: Display: 7: SideRight
+[2022.04.10-06.22.17:094][ 57]LogAudioMixer: Display: Using Audio Device Speakers (Logitech PRO X Gaming Headset)
+[2022.04.10-06.22.17:094][ 57]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.10-06.22.17:094][ 57]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.10-06.22.17:094][ 57]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.10-06.22.17:094][ 57]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.10-06.22.17:094][ 57]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.10-06.22.17:094][ 57]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2022.04.10-06.22.17:096][ 57]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.10-06.22.17:096][ 57]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.10-06.22.17:096][ 57]LogInit: FAudioDevice initialized.
+[2022.04.10-06.22.17:096][ 57]LogAudio: Display: Audio Device (ID: 8) registered with world 'Main_Menu'.
+[2022.04.10-06.22.17:106][ 57]LogLoad: Game class is 'HorrorEngineGameMode_C'
+[2022.04.10-06.22.17:110][ 57]LogWorld: Bringing World /Game/MichaelM/Levels/UEDPIE_0_Main_Menu.Main_Menu up for play (max tick rate 0) at 2022.04.10-16.22.17
+[2022.04.10-06.22.17:110][ 57]LogWorld: Bringing up level for play took: 0.001331
+[2022.04.10-06.22.17:110][ 57]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2022.04.10-06.22.17:112][ 57]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.04.10-06.22.17:115][ 57]LogStreaming: Warning: Failed to read file '../../../../../Unity Projects/Directors-Hotel/HorrorEngine/Saved/SaveGames/SaveSlotList.sav' error.
+[2022.04.10-06.22.17:117][ 57]PIE: Server logged in
+[2022.04.10-06.22.17:117][ 57]PIE: Play in editor total start time 0.171 seconds.
+[2022.04.10-06.22.18:631][229]LogAudio: Display: Cached duration for Sound Cue SoundCue /Game/HorrorEngine/Audio/Footsteps/Default_Cue.Default_Cue was zero and has changed. Consider manually Re-saving the asset
+[2022.04.10-06.22.28:808][431]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.10-06.22.28:808][431]LogWorld: BeginTearingDown for /Game/MichaelM/Levels/UEDPIE_0_Main_Menu
+[2022.04.10-06.22.28:808][431]LogWorld: UWorld::CleanupWorld for Main_Menu, bSessionEnded=true, bCleanupResources=true
+[2022.04.10-06.22.28:809][431]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.10-06.22.28:818][431]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.10-06.22.28:829][431]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.10-06.22.28:838][431]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.10-06.22.28:838][431]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.10-06.22.28:839][431]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.10-06.22.28:842][431]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.10-06.22.28:844][431]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2022.04.10-06.22.28:876][432]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2022.04.10-06.22.43:312][933]LogTexture: Display: Building textures: T_WallLamp_01_D (OODLE_AutoDXT, 1024X1024)
+[2022.04.10-06.22.43:312][933]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.04.10-06.22.43:312][933]LogTexture: Display: Building textures: T_WallLamp_01_ORM (OODLE_AutoDXT, 1024X1024)
+[2022.04.10-06.22.43:312][933]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.04.10-06.22.43:312][933]LogTexture: Display: Building textures: T_DeskLamp_D (OODLE_AutoDXT, 2048X2048)
+[2022.04.10-06.22.43:312][933]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.04.10-06.22.43:312][933]LogTexture: Display: Building textures: T_WallLamp_01_N (OODLE_BC5, 1024X1024)
+[2022.04.10-06.22.43:312][933]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.04.10-06.22.43:312][933]LogTexture: Display: Building textures: T_DeskLamp_ORM (OODLE_AutoDXT, 2048X2048)
+[2022.04.10-06.22.43:312][933]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.04.10-06.22.43:312][933]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.04.10-06.22.43:312][933]LogTexture: Display: Building textures: T_DeskLamp_N (OODLE_BC5, 2048X2048)
+[2022.04.10-06.22.43:312][933]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.04.10-06.22.43:312][933]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.04.10-06.22.43:312][933]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.04.10-06.22.43:312][933]LogMaterial: Display: Missing cached shadermap for M_Master_Emissive in PCD3D_SM5, Default, SM5 (DDC key hash: D55FD06D154F0F28E740FF36662F52FCCCA752D7), compiling. 
+[2022.04.10-06.22.43:329][933]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2022.04.10-06.22.43:330][933]LogMaterial: Display: Missing cached shadermap for MI_Emissive_01 in PCD3D_SM5, Default, SM5 (DDC key hash: AC042B8F9C12DB21598442B0BE856C9F2961A083), compiling. 
+[2022.04.10-06.22.43:349][933]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 25
+[2022.04.10-06.22.43:349][933]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 15
+[2022.04.10-06.22.43:349][933]LogShaderCompilers: Display: Started 20 'Local' shader compile jobs with 'Low' priority
+[2022.04.10-06.22.43:349][933]LogStaticMesh: Building static mesh SM_Ceiling_01...
+[2022.04.10-06.22.43:362][933]LogStaticMesh: Built static mesh [0.01s] /Game/CheapHotel/Mesh/ModularInterior/SM_Ceiling_01.SM_Ceiling_01
+[2022.04.10-06.22.43:394][933]LogActorFactory: Actor Factory created SM_Ceiling_01
+[2022.04.10-06.22.44:832][ 47]LogActorFactory: Actor Factory created SM_Ceiling_01
+[2022.04.10-06.22.45:374][ 89]LogActorFactory: Actor Factory created SM_Ceiling_01
+[2022.04.10-06.22.46:984][258]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 5
+[2022.04.10-06.22.46:984][258]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Low' priority
+[2022.04.10-06.22.46:992][258]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.04.10-06.22.46:992][258]LogShaderCompilers: Display: Total job queries 21533, among them cache hits 19553 (90.80%)
+[2022.04.10-06.22.46:992][258]LogShaderCompilers: Display: Tracking 1915 distinct input hashes that result in 1123 distinct outputs (58.64%)
+[2022.04.10-06.22.46:992][258]LogShaderCompilers: Display: RAM used: 7.41 MB (0.01 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.90%
+[2022.04.10-06.22.46:992][258]LogShaderCompilers: Display: ================================================
+[2022.04.10-06.22.47:691][329]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2
+[2022.04.10-06.22.47:692][329]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2022.04.10-06.22.57:545][459]Cmd: DELETE
+[2022.04.10-06.22.57:545][459]Cmd: ACTOR DELETE
+[2022.04.10-06.22.57:547][459]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.10-06.22.57:557][459]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2022.04.10-06.22.57:564][459]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2022.04.10-06.23.01:848][907]LogStaticMesh: Building static mesh SM_Ceiling_04...
+[2022.04.10-06.23.01:868][907]LogStaticMesh: Built static mesh [0.02s] /Game/CheapHotel/Mesh/ModularInterior/SM_Ceiling_04.SM_Ceiling_04
+[2022.04.10-06.23.01:945][912]LogActorFactory: Actor Factory created SM_Ceiling_04
+[2022.04.10-06.23.03:590][100]LogActorFactory: Actor Factory created SM_Ceiling_04
+[2022.04.10-06.23.03:891][131]LogActorFactory: Actor Factory created SM_Ceiling_04
+[2022.04.10-06.23.40:148][230]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.10-06.23.40:212][230]LogFMOD: Default sample rate = 48000
+[2022.04.10-06.23.40:212][230]LogFMOD: System sample rate = 44100
+[2022.04.10-06.23.40:212][230]LogFMOD: Matching system sample rate 44100
+[2022.04.10-06.23.40:226][230]LogFMOD: Warning: Master bank (Master.bank) not found.
+[2022.04.10-06.23.40:264][230]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.10-06.23.40:264][230]PIE: New page: PIE session: Main_Menu (11 Apr 2022, 2:23:40 am)
+[2022.04.10-06.23.40:292][230]LogPlayLevel: Creating play world package: /Game/MichaelM/Levels/UEDPIE_0_Main_Menu
+[2022.04.10-06.23.40:295][230]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002756s)
+[2022.04.10-06.23.40:296][230]LogAIModule: Creating AISystem for world Main_Menu
+[2022.04.10-06.23.40:296][230]LogPlayLevel: PIE: World Init took: (0.000912s)
+[2022.04.10-06.23.40:296][230]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MichaelM/Levels/Main_Menu.Main_Menu to /Game/MichaelM/Levels/UEDPIE_0_Main_Menu.Main_Menu (0.003804s)
+[2022.04.10-06.23.40:306][230]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2022.04.10-06.23.40:310][230]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2022.04.10-06.23.40:310][230]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.10-06.23.40:310][230]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.10-06.23.40:310][230]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.10-06.23.40:310][230]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.10-06.23.40:310][230]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.10-06.23.40:310][230]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.10-06.23.40:310][230]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.10-06.23.40:310][230]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.10-06.23.40:311][230]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.04.10-06.23.40:311][230]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.04.10-06.23.40:311][230]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.10-06.23.40:311][230]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.10-06.23.40:319][230]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.10-06.23.40:319][230]LogAudioMixer: Display: 1: FrontRight
+[2022.04.10-06.23.40:319][230]LogAudioMixer: Display: 2: FrontCenter
+[2022.04.10-06.23.40:319][230]LogAudioMixer: Display: 3: LowFrequency
+[2022.04.10-06.23.40:319][230]LogAudioMixer: Display: 4: BackLeft
+[2022.04.10-06.23.40:319][230]LogAudioMixer: Display: 5: BackRight
+[2022.04.10-06.23.40:319][230]LogAudioMixer: Display: 6: SideLeft
+[2022.04.10-06.23.40:319][230]LogAudioMixer: Display: 7: SideRight
+[2022.04.10-06.23.40:328][230]LogAudioMixer: Display: Using Audio Device Speakers (Logitech PRO X Gaming Headset)
+[2022.04.10-06.23.40:329][230]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.10-06.23.40:329][230]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.10-06.23.40:329][230]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.10-06.23.40:329][230]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.10-06.23.40:329][230]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.10-06.23.40:329][230]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2022.04.10-06.23.40:330][230]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.10-06.23.40:330][230]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.10-06.23.40:330][230]LogInit: FAudioDevice initialized.
+[2022.04.10-06.23.40:330][230]LogAudio: Display: Audio Device (ID: 9) registered with world 'Main_Menu'.
+[2022.04.10-06.23.40:339][230]LogLoad: Game class is 'HorrorEngineGameMode_C'
+[2022.04.10-06.23.40:344][230]LogWorld: Bringing World /Game/MichaelM/Levels/UEDPIE_0_Main_Menu.Main_Menu up for play (max tick rate 0) at 2022.04.10-16.23.40
+[2022.04.10-06.23.40:344][230]LogWorld: Bringing up level for play took: 0.001581
+[2022.04.10-06.23.40:344][230]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2022.04.10-06.23.40:346][230]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.04.10-06.23.40:349][230]LogStreaming: Warning: Failed to read file '../../../../../Unity Projects/Directors-Hotel/HorrorEngine/Saved/SaveGames/SaveSlotList.sav' error.
+[2022.04.10-06.23.40:350][230]PIE: Server logged in
+[2022.04.10-06.23.40:351][230]PIE: Play in editor total start time 0.196 seconds.
+[2022.04.10-06.23.48:798][225]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.10-06.23.48:798][225]LogWorld: BeginTearingDown for /Game/MichaelM/Levels/UEDPIE_0_Main_Menu
+[2022.04.10-06.23.48:798][225]LogWorld: UWorld::CleanupWorld for Main_Menu, bSessionEnded=true, bCleanupResources=true
+[2022.04.10-06.23.48:798][225]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.10-06.23.48:805][225]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.10-06.23.48:820][225]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.10-06.23.48:829][225]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.10-06.23.48:829][225]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.10-06.23.48:830][225]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.10-06.23.48:833][225]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.10-06.23.48:835][225]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2022.04.10-06.23.48:879][226]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2022.04.10-06.24.24:941][771]LogTexture: Display: Building textures: T_WoodDesk_N (OODLE_BC5, 4096X4096)
+[2022.04.10-06.24.24:941][771]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.04.10-06.24.24:941][771]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.04.10-06.24.24:941][771]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.04.10-06.24.24:941][771]LogTexture: Display: Building textures: T_WoodDesk_ORM (OODLE_AutoDXT, 4096X4096)
+[2022.04.10-06.24.24:941][771]LogTexture: Display: Building textures: T_WoodDesk_D (OODLE_AutoDXT, 4096X4096)
+[2022.04.10-06.24.24:941][771]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.04.10-06.24.24:941][771]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.04.10-06.24.24:941][771]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.04.10-06.24.24:941][771]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.04.10-06.24.24:941][771]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.04.10-06.24.24:941][771]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.04.10-06.24.24:941][771]LogStaticMesh: Building static mesh SM_WoodDesk...
+[2022.04.10-06.24.24:970][771]LogStaticMesh: Built static mesh [0.03s] /Game/CheapHotel/Mesh/SM_WoodDesk.SM_WoodDesk
+[2022.04.10-06.24.25:007][771]LogActorFactory: Actor Factory created SM_WoodDesk
+[2022.04.10-06.24.25:885][869]LogActorFactory: Actor Factory created SM_WoodDesk
+[2022.04.10-06.25.01:908][949]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WoodDesk)
+[2022.04.10-06.25.13:913][286]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2022.04.10-06.25.37:716][896]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2022.04.10-06.25.40:666][227]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_C_16)
+[2022.04.10-06.25.41:032][260]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2022.04.10-06.25.46:991][942]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WoodDesk)
+[2022.04.10-06.25.51:184][392]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2022.04.10-06.26.03:305][742]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WoodDesk)
+[2022.04.10-06.26.08:927][365]LogStaticMesh: Building static mesh SM_WoodDesk_03...
+[2022.04.10-06.26.08:946][365]LogStaticMesh: Built static mesh [0.02s] /Game/CheapHotel/Mesh/SM_WoodDesk_03.SM_WoodDesk_03
+[2022.04.10-06.26.09:120][376]LogActorFactory: Actor Factory created SM_WoodDesk_03
+[2022.04.10-06.26.11:526][648]LogActorFactory: Actor Factory created SM_WoodDesk_03
+[2022.04.10-06.26.20:341][591]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WoodPanel_02)
+[2022.04.10-06.26.27:866][317]LogTexture: Display: Building textures: T_Nightstand_N (OODLE_BC5, 2048X2048)
+[2022.04.10-06.26.27:866][317]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.04.10-06.26.27:866][317]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.04.10-06.26.27:866][317]LogTexture: Display: Building textures: T_Nightstand_ORM (OODLE_AutoDXT, 2048X2048)
+[2022.04.10-06.26.27:866][317]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.04.10-06.26.27:866][317]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.04.10-06.26.27:866][317]LogTexture: Display: Building textures: T_Nightstand_D (OODLE_AutoDXT, 2048X2048)
+[2022.04.10-06.26.27:866][317]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.04.10-06.26.27:866][317]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.04.10-06.26.27:866][317]LogStaticMesh: Building static mesh SM_Nightstand_01...
+[2022.04.10-06.26.27:890][317]LogStaticMesh: Built static mesh [0.02s] /Game/CheapHotel/Mesh/SM_Nightstand_01.SM_Nightstand_01
+[2022.04.10-06.26.27:915][317]LogActorFactory: Actor Factory created SM_Nightstand_01
+[2022.04.10-06.26.28:753][414]LogActorFactory: Actor Factory created SM_Nightstand_01
+[2022.04.10-06.26.42:286][748]LogTexture: Display: Building textures: T_Frame_02_D (OODLE_AutoDXT, 2048X2048)
+[2022.04.10-06.26.42:286][748]LogTexture: Display: Building textures: T_Frame_02_ORM (OODLE_AutoDXT, 2048X2048)
+[2022.04.10-06.26.42:286][748]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.04.10-06.26.42:286][748]LogTexture: Display: Building textures: T_Picture_1 (BGRA8, 2204X1362)
+[2022.04.10-06.26.42:286][748]LogTexture: Display: Building textures: T_Frame_02_N (OODLE_BC5, 2048X2048)
+[2022.04.10-06.26.42:286][748]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.04.10-06.26.42:286][748]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.04.10-06.26.42:286][748]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.04.10-06.26.42:286][748]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.04.10-06.26.42:286][748]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.04.10-06.26.42:286][748]LogMaterial: Display: Missing cached shadermap for M_Master_Image in PCD3D_SM5, Default, SM5 (DDC key hash: 2B6FE5DBA693B74E31B79B1FAE9A7C7826EAFA37), compiling. 
+[2022.04.10-06.26.42:306][748]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2022.04.10-06.26.42:313][748]LogMaterial: Display: Missing cached shadermap for M_Master_Glass in PCD3D_SM5, Default, SM5 (DDC key hash: C7D0D300B81DD6B1EF37CAFA19920413A5DEB3DD), compiling. 
+[2022.04.10-06.26.42:342][748]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 25
+[2022.04.10-06.26.42:342][748]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 15
+[2022.04.10-06.26.42:342][748]LogShaderCompilers: Display: Started 20 'Local' shader compile jobs with 'Low' priority
+[2022.04.10-06.26.42:342][748]LogShaderCompilers: Display: Submitted 44 shader compile jobs with 'Low' priority
+[2022.04.10-06.26.42:343][748]LogStaticMesh: Building static mesh SM_Frame_02...
+[2022.04.10-06.26.42:360][748]LogStaticMesh: Built static mesh [0.02s] /Game/CheapHotel/Mesh/SM_Frame_02.SM_Frame_02
+[2022.04.10-06.26.42:396][748]LogActorFactory: Actor Factory created SM_Frame_02
+[2022.04.10-06.26.44:172][927]LogActorFactory: Actor Factory created SM_Frame_02
+[2022.04.10-06.26.45:854][104]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 4
+[2022.04.10-06.26.45:854][104]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.04.10-06.26.45:858][104]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.04.10-06.26.45:858][104]LogShaderCompilers: Display: Total job queries 21602, among them cache hits 19553 (90.51%)
+[2022.04.10-06.26.45:858][104]LogShaderCompilers: Display: Tracking 1940 distinct input hashes that result in 1140 distinct outputs (58.76%)
+[2022.04.10-06.26.45:858][104]LogShaderCompilers: Display: RAM used: 7.54 MB (0.01 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.92%
+[2022.04.10-06.26.45:858][104]LogShaderCompilers: Display: ================================================
+[2022.04.10-06.26.46:589][184]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2022.04.10-06.26.46:589][184]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.04.10-06.26.47:037][232]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 45
+[2022.04.10-06.26.47:037][232]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.10-06.26.50:923][620]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 35
+[2022.04.10-06.26.50:923][620]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.10-06.27.00:404][578]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 25
+[2022.04.10-06.27.00:404][578]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.04.10-06.27.00:688][609]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 15
+[2022.04.10-06.27.00:688][609]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2022.04.10-06.27.11:247][769]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 7
+[2022.04.10-06.27.11:247][769]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2022.04.10-06.27.14:897][118]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2022.04.10-06.27.14:897][118]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.04.10-06.27.15:594][195]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2022.04.10-06.27.15:594][195]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.04.10-06.27.19:211][604]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.10-06.27.19:502][604]LogFMOD: Default sample rate = 48000
+[2022.04.10-06.27.19:502][604]LogFMOD: System sample rate = 44100
+[2022.04.10-06.27.19:502][604]LogFMOD: Matching system sample rate 44100
+[2022.04.10-06.27.19:517][604]LogFMOD: Warning: Master bank (Master.bank) not found.
+[2022.04.10-06.27.19:554][604]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.10-06.27.19:554][604]PIE: New page: PIE session: Main_Menu (11 Apr 2022, 2:27:19 am)
+[2022.04.10-06.27.19:583][604]LogPlayLevel: Creating play world package: /Game/MichaelM/Levels/UEDPIE_0_Main_Menu
+[2022.04.10-06.27.19:586][604]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003351s)
+[2022.04.10-06.27.19:587][604]LogAIModule: Creating AISystem for world Main_Menu
+[2022.04.10-06.27.19:587][604]LogPlayLevel: PIE: World Init took: (0.000925s)
+[2022.04.10-06.27.19:587][604]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MichaelM/Levels/Main_Menu.Main_Menu to /Game/MichaelM/Levels/UEDPIE_0_Main_Menu.Main_Menu (0.004416s)
+[2022.04.10-06.27.19:598][604]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2022.04.10-06.27.19:611][604]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2022.04.10-06.27.19:611][604]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.10-06.27.19:611][604]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.10-06.27.19:611][604]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.10-06.27.19:611][604]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.10-06.27.19:611][604]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.10-06.27.19:611][604]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.10-06.27.19:611][604]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.10-06.27.19:611][604]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.10-06.27.19:612][604]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.04.10-06.27.19:612][604]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.04.10-06.27.19:612][604]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.10-06.27.19:612][604]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.10-06.27.19:620][604]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.10-06.27.19:620][604]LogAudioMixer: Display: 1: FrontRight
+[2022.04.10-06.27.19:620][604]LogAudioMixer: Display: 2: FrontCenter
+[2022.04.10-06.27.19:620][604]LogAudioMixer: Display: 3: LowFrequency
+[2022.04.10-06.27.19:620][604]LogAudioMixer: Display: 4: BackLeft
+[2022.04.10-06.27.19:620][604]LogAudioMixer: Display: 5: BackRight
+[2022.04.10-06.27.19:620][604]LogAudioMixer: Display: 6: SideLeft
+[2022.04.10-06.27.19:620][604]LogAudioMixer: Display: 7: SideRight
+[2022.04.10-06.27.19:629][604]LogAudioMixer: Display: Using Audio Device Speakers (Logitech PRO X Gaming Headset)
+[2022.04.10-06.27.19:630][604]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.10-06.27.19:630][604]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.10-06.27.19:630][604]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.10-06.27.19:630][604]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.10-06.27.19:630][604]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.10-06.27.19:630][604]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2022.04.10-06.27.19:631][604]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.10-06.27.19:631][604]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.10-06.27.19:631][604]LogInit: FAudioDevice initialized.
+[2022.04.10-06.27.19:631][604]LogAudio: Display: Audio Device (ID: 10) registered with world 'Main_Menu'.
+[2022.04.10-06.27.19:641][604]LogLoad: Game class is 'HorrorEngineGameMode_C'
+[2022.04.10-06.27.19:645][604]LogWorld: Bringing World /Game/MichaelM/Levels/UEDPIE_0_Main_Menu.Main_Menu up for play (max tick rate 0) at 2022.04.10-16.27.19
+[2022.04.10-06.27.19:645][604]LogWorld: Bringing up level for play took: 0.001433
+[2022.04.10-06.27.19:645][604]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2022.04.10-06.27.19:647][604]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.04.10-06.27.19:650][604]LogStreaming: Warning: Failed to read file '../../../../../Unity Projects/Directors-Hotel/HorrorEngine/Saved/SaveGames/SaveSlotList.sav' error.
+[2022.04.10-06.27.19:651][604]PIE: Server logged in
+[2022.04.10-06.27.19:652][604]PIE: Play in editor total start time 0.192 seconds.
+[2022.04.10-06.27.24:017][103]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.10-06.27.24:017][103]LogWorld: BeginTearingDown for /Game/MichaelM/Levels/UEDPIE_0_Main_Menu
+[2022.04.10-06.27.24:018][103]LogWorld: UWorld::CleanupWorld for Main_Menu, bSessionEnded=true, bCleanupResources=true
+[2022.04.10-06.27.24:018][103]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.10-06.27.24:029][103]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.10-06.27.24:045][103]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.10-06.27.24:054][103]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.10-06.27.24:054][103]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.10-06.27.24:055][103]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.10-06.27.24:057][103]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.10-06.27.24:060][103]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2022.04.10-06.27.24:114][104]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2022.04.10-06.27.43:993][343]LogEditor: Attempting to add actor of class 'CineCameraActor' to level at 790.00,1080.00,740.00
+[2022.04.10-06.27.44:907][420]LogEditor: Attempting to add actor of class 'CineCameraActor' to level at 460.00,1510.00,610.00
+[2022.04.10-06.29.45:709][244]LogEditorViewport: Clicking on Actor (LMB): CineCameraActor (CineCameraActor1)
+[2022.04.10-06.30.38:196][154]LogEditorViewport: Clicking on Actor (LMB): CineCameraActor (CineCameraActor1)
+[2022.04.10-06.30.41:521][512]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2022.04.10-06.30.43:745][759]LogEditorViewport: Clicking on Actor (LMB): CineCameraActor (CineCameraActor1)
+[2022.04.10-06.30.45:715][983]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2022.04.10-06.30.46:494][ 65]Cmd: DELETE
+[2022.04.10-06.30.46:494][ 65]Cmd: ACTOR DELETE
+[2022.04.10-06.30.46:496][ 65]LogEditorActor: Deleted Actor: CameraActor
+[2022.04.10-06.30.46:513][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2022.04.10-06.30.46:519][ 65]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2022.04.10-06.30.47:044][127]LogEditorViewport: Clicking on Actor (LMB): CineCameraActor (CineCameraActor1)
+[2022.04.10-06.31.53:879][347]LogEditorViewport: Clicking on Actor (LMB): SecurityMonitor_C (SecurityMonitor2)
+[2022.04.10-06.32.02:757][277]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.32.02:758][277]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	SecurityMonitor_C /Game/MichaelM/Levels/Main_Menu.Main_Menu:PersistentLevel.SecurityMonitor2_5
+	Function /Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C:RefreshScreen:00CE
+[2022.04.10-06.32.02:758][277]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.32.02:758][277]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item_1
+	SecurityMonitor_C /Game/MichaelM/Levels/Main_Menu.Main_Menu:PersistentLevel.SecurityMonitor2_5
+	Function /Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C:RefreshScreen:0150
+[2022.04.10-06.32.08:575][933]LogEditorViewport: Clicking on Actor (LMB): SecurityMonitor_C (SecurityMonitor)
+[2022.04.10-06.32.10:225][ 87]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.32.10:225][ 87]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	SecurityMonitor_C /Game/MichaelM/Levels/Main_Menu.Main_Menu:PersistentLevel.SecurityMonitor_2
+	Function /Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C:RefreshScreen:00CE
+[2022.04.10-06.32.10:225][ 87]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.32.10:225][ 87]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item_1
+	SecurityMonitor_C /Game/MichaelM/Levels/Main_Menu.Main_Menu:PersistentLevel.SecurityMonitor_2
+	Function /Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C:RefreshScreen:0150
+[2022.04.10-06.32.10:935][164]LogEditorViewport: Clicking on Actor (LMB): SecurityMonitor_C (SecurityMonitor3)
+[2022.04.10-06.32.11:773][248]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.32.11:774][248]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	SecurityMonitor_C /Game/MichaelM/Levels/Main_Menu.Main_Menu:PersistentLevel.SecurityMonitor3
+	Function /Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C:RefreshScreen:00CE
+[2022.04.10-06.32.11:774][248]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.32.11:774][248]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item_1
+	SecurityMonitor_C /Game/MichaelM/Levels/Main_Menu.Main_Menu:PersistentLevel.SecurityMonitor3
+	Function /Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C:RefreshScreen:0150
+[2022.04.10-06.32.17:333][880]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.32.17:333][880]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	SecurityMonitor_C /Game/MichaelM/Levels/Main_Menu.Main_Menu:PersistentLevel.SecurityMonitor3
+	Function /Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C:RefreshScreen:00CE
+[2022.04.10-06.32.17:333][880]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.32.17:333][880]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item_1
+	SecurityMonitor_C /Game/MichaelM/Levels/Main_Menu.Main_Menu:PersistentLevel.SecurityMonitor3
+	Function /Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C:RefreshScreen:0150
+[2022.04.10-06.32.17:574][909]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.32.17:574][909]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	SecurityMonitor_C /Game/MichaelM/Levels/Main_Menu.Main_Menu:PersistentLevel.SecurityMonitor3
+	Function /Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C:RefreshScreen:00CE
+[2022.04.10-06.32.17:574][909]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.32.17:574][909]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item_1
+	SecurityMonitor_C /Game/MichaelM/Levels/Main_Menu.Main_Menu:PersistentLevel.SecurityMonitor3
+	Function /Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C:RefreshScreen:0150
+[2022.04.10-06.32.17:766][932]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.32.17:766][932]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	SecurityMonitor_C /Game/MichaelM/Levels/Main_Menu.Main_Menu:PersistentLevel.SecurityMonitor3
+	Function /Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C:RefreshScreen:00CE
+[2022.04.10-06.32.17:766][932]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.32.17:766][932]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item_1
+	SecurityMonitor_C /Game/MichaelM/Levels/Main_Menu.Main_Menu:PersistentLevel.SecurityMonitor3
+	Function /Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C:RefreshScreen:0150
+[2022.04.10-06.32.18:279][992]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.32.18:279][992]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	SecurityMonitor_C /Game/MichaelM/Levels/Main_Menu.Main_Menu:PersistentLevel.SecurityMonitor3
+	Function /Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C:RefreshScreen:00CE
+[2022.04.10-06.32.18:279][992]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.32.18:279][992]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item_1
+	SecurityMonitor_C /Game/MichaelM/Levels/Main_Menu.Main_Menu:PersistentLevel.SecurityMonitor3
+	Function /Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C:RefreshScreen:0150
+[2022.04.10-06.32.18:512][ 20]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.32.18:512][ 20]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	SecurityMonitor_C /Game/MichaelM/Levels/Main_Menu.Main_Menu:PersistentLevel.SecurityMonitor3
+	Function /Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C:RefreshScreen:00CE
+[2022.04.10-06.32.18:512][ 20]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.32.18:512][ 20]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item_1
+	SecurityMonitor_C /Game/MichaelM/Levels/Main_Menu.Main_Menu:PersistentLevel.SecurityMonitor3
+	Function /Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C:RefreshScreen:0150
+[2022.04.10-06.32.19:128][ 94]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.32.19:128][ 94]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	SecurityMonitor_C /Game/MichaelM/Levels/Main_Menu.Main_Menu:PersistentLevel.SecurityMonitor3
+	Function /Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C:RefreshScreen:00CE
+[2022.04.10-06.32.19:128][ 94]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.32.19:128][ 94]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item_1
+	SecurityMonitor_C /Game/MichaelM/Levels/Main_Menu.Main_Menu:PersistentLevel.SecurityMonitor3
+	Function /Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C:RefreshScreen:0150
+[2022.04.10-06.32.19:503][139]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.32.19:503][139]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	SecurityMonitor_C /Game/MichaelM/Levels/Main_Menu.Main_Menu:PersistentLevel.SecurityMonitor3
+	Function /Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C:RefreshScreen:00CE
+[2022.04.10-06.32.19:503][139]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.32.19:503][139]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item_1
+	SecurityMonitor_C /Game/MichaelM/Levels/Main_Menu.Main_Menu:PersistentLevel.SecurityMonitor3
+	Function /Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C:RefreshScreen:0150
+[2022.04.10-06.32.20:114][211]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.32.20:114][211]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.32.20:205][222]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.32.20:205][222]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.32.23:447][575]LogEditorViewport: Clicking on Actor (LMB): SecurityMonitor_C (SecurityMonitor2)
+[2022.04.10-06.32.26:443][890]LogEditorViewport: Clicking on Actor (LMB): SecurityMonitor_C (SecurityMonitor3)
+[2022.04.10-06.32.31:445][454]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.32.31:445][454]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.32.31:645][478]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.32.31:645][478]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.32.31:812][498]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.32.31:812][498]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.32.32:044][526]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.32.32:045][526]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.32.32:464][575]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.32.32:464][575]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.32.32:547][585]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.32.32:547][585]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.32.32:972][636]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.32.32:973][636]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.32.33:105][652]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.32.33:105][652]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.32.33:222][666]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.32.33:222][666]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.32.33:739][728]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.32.33:739][728]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.32.34:022][762]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.32.34:022][762]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.32.34:619][832]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.32.34:619][832]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.32.35:094][889]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.32.35:094][889]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.32.35:635][954]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.32.35:635][954]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.32.42:788][765]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.32.42:788][765]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	SecurityMonitor_C /Game/MichaelM/Levels/Main_Menu.Main_Menu:PersistentLevel.SecurityMonitor3_7
+	Function /Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C:RefreshScreen:00CE
+[2022.04.10-06.32.42:789][765]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.32.42:789][765]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item_1
+	SecurityMonitor_C /Game/MichaelM/Levels/Main_Menu.Main_Menu:PersistentLevel.SecurityMonitor3_7
+	Function /Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C:RefreshScreen:0150
+[2022.04.10-06.32.42:789][765]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.32.42:789][765]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	SecurityMonitor_C /Game/MichaelM/Levels/Main_Menu.Main_Menu:PersistentLevel.SecurityMonitor3_7
+	Function /Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C:RefreshScreen:00CE
+[2022.04.10-06.32.42:789][765]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.32.42:789][765]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item_1
+	SecurityMonitor_C /Game/MichaelM/Levels/Main_Menu.Main_Menu:PersistentLevel.SecurityMonitor3_7
+	Function /Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C:RefreshScreen:0150
+[2022.04.10-06.32.42:790][765]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.32.42:790][765]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	SecurityMonitor_C /Game/MichaelM/Levels/Main_Menu.Main_Menu:PersistentLevel.SecurityMonitor4
+	Function /Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C:RefreshScreen:00CE
+[2022.04.10-06.32.42:790][765]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.32.42:790][765]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item_1
+	SecurityMonitor_C /Game/MichaelM/Levels/Main_Menu.Main_Menu:PersistentLevel.SecurityMonitor4
+	Function /Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C:RefreshScreen:0150
+[2022.04.10-06.32.42:790][765]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.32.42:790][765]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	SecurityMonitor_C /Game/MichaelM/Levels/Main_Menu.Main_Menu:PersistentLevel.SecurityMonitor4
+	Function /Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C:RefreshScreen:00CE
+[2022.04.10-06.32.42:790][765]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.32.42:790][765]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item_1
+	SecurityMonitor_C /Game/MichaelM/Levels/Main_Menu.Main_Menu:PersistentLevel.SecurityMonitor4
+	Function /Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C:RefreshScreen:0150
+[2022.04.10-06.32.42:799][765]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.32.42:799][765]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	SecurityMonitor_C /Game/MichaelM/Levels/Main_Menu.Main_Menu:PersistentLevel.SecurityMonitor4
+	Function /Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C:RefreshScreen:00CE
+[2022.04.10-06.32.42:799][765]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.32.42:799][765]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item_1
+	SecurityMonitor_C /Game/MichaelM/Levels/Main_Menu.Main_Menu:PersistentLevel.SecurityMonitor4
+	Function /Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C:RefreshScreen:0150
+[2022.04.10-06.32.42:861][771]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.32.42:861][771]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	SecurityMonitor_C /Game/MichaelM/Levels/Main_Menu.Main_Menu:PersistentLevel.SecurityMonitor4
+	Function /Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C:RefreshScreen:00CE
+[2022.04.10-06.32.42:861][771]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.32.42:862][771]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item_1
+	SecurityMonitor_C /Game/MichaelM/Levels/Main_Menu.Main_Menu:PersistentLevel.SecurityMonitor4
+	Function /Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C:RefreshScreen:0150
+[2022.04.10-06.32.42:962][783]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.32.42:962][783]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	SecurityMonitor_C /Game/MichaelM/Levels/Main_Menu.Main_Menu:PersistentLevel.SecurityMonitor4
+	Function /Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C:RefreshScreen:00CE
+[2022.04.10-06.32.42:962][783]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.32.42:962][783]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item_1
+	SecurityMonitor_C /Game/MichaelM/Levels/Main_Menu.Main_Menu:PersistentLevel.SecurityMonitor4
+	Function /Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C:RefreshScreen:0150
+[2022.04.10-06.32.43:119][802]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.32.43:120][802]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	SecurityMonitor_C /Game/MichaelM/Levels/Main_Menu.Main_Menu:PersistentLevel.SecurityMonitor4
+	Function /Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C:RefreshScreen:00CE
+[2022.04.10-06.32.43:120][802]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.32.43:120][802]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item_1
+	SecurityMonitor_C /Game/MichaelM/Levels/Main_Menu.Main_Menu:PersistentLevel.SecurityMonitor4
+	Function /Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C:RefreshScreen:0150
+[2022.04.10-06.32.43:203][812]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.32.43:203][812]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	SecurityMonitor_C /Game/MichaelM/Levels/Main_Menu.Main_Menu:PersistentLevel.SecurityMonitor4
+	Function /Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C:RefreshScreen:00CE
+[2022.04.10-06.32.43:203][812]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.32.43:203][812]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item_1
+	SecurityMonitor_C /Game/MichaelM/Levels/Main_Menu.Main_Menu:PersistentLevel.SecurityMonitor4
+	Function /Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C:RefreshScreen:0150
+[2022.04.10-06.32.43:714][873]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.32.43:714][873]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	SecurityMonitor_C /Game/MichaelM/Levels/Main_Menu.Main_Menu:PersistentLevel.SecurityMonitor4
+	Function /Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C:RefreshScreen:00CE
+[2022.04.10-06.32.43:714][873]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.32.43:714][873]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item_1
+	SecurityMonitor_C /Game/MichaelM/Levels/Main_Menu.Main_Menu:PersistentLevel.SecurityMonitor4
+	Function /Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C:RefreshScreen:0150
+[2022.04.10-06.32.44:424][956]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.32.44:424][956]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	SecurityMonitor_C /Game/MichaelM/Levels/Main_Menu.Main_Menu:PersistentLevel.SecurityMonitor4_8
+	Function /Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C:RefreshScreen:00CE
+[2022.04.10-06.32.44:424][956]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.32.44:424][956]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item_1
+	SecurityMonitor_C /Game/MichaelM/Levels/Main_Menu.Main_Menu:PersistentLevel.SecurityMonitor4_8
+	Function /Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C:RefreshScreen:0150
+[2022.04.10-06.32.44:424][956]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.32.44:424][956]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	SecurityMonitor_C /Game/MichaelM/Levels/Main_Menu.Main_Menu:PersistentLevel.SecurityMonitor4_8
+	Function /Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C:RefreshScreen:00CE
+[2022.04.10-06.32.44:424][956]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.32.44:424][956]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item_1
+	SecurityMonitor_C /Game/MichaelM/Levels/Main_Menu.Main_Menu:PersistentLevel.SecurityMonitor4_8
+	Function /Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C:RefreshScreen:0150
+[2022.04.10-06.32.44:425][956]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.32.44:425][956]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	SecurityMonitor_C /Game/MichaelM/Levels/Main_Menu.Main_Menu:PersistentLevel.SecurityMonitor5
+	Function /Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C:RefreshScreen:00CE
+[2022.04.10-06.32.44:425][956]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.32.44:425][956]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item_1
+	SecurityMonitor_C /Game/MichaelM/Levels/Main_Menu.Main_Menu:PersistentLevel.SecurityMonitor5
+	Function /Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C:RefreshScreen:0150
+[2022.04.10-06.32.44:426][956]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.32.44:426][956]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	SecurityMonitor_C /Game/MichaelM/Levels/Main_Menu.Main_Menu:PersistentLevel.SecurityMonitor5
+	Function /Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C:RefreshScreen:00CE
+[2022.04.10-06.32.44:426][956]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.32.44:426][956]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item_1
+	SecurityMonitor_C /Game/MichaelM/Levels/Main_Menu.Main_Menu:PersistentLevel.SecurityMonitor5
+	Function /Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C:RefreshScreen:0150
+[2022.04.10-06.32.44:435][956]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.32.44:435][956]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	SecurityMonitor_C /Game/MichaelM/Levels/Main_Menu.Main_Menu:PersistentLevel.SecurityMonitor5
+	Function /Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C:RefreshScreen:00CE
+[2022.04.10-06.32.44:435][956]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.32.44:435][956]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item_1
+	SecurityMonitor_C /Game/MichaelM/Levels/Main_Menu.Main_Menu:PersistentLevel.SecurityMonitor5
+	Function /Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C:RefreshScreen:0150
+[2022.04.10-06.32.44:497][962]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.32.44:497][962]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	SecurityMonitor_C /Game/MichaelM/Levels/Main_Menu.Main_Menu:PersistentLevel.SecurityMonitor5
+	Function /Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C:RefreshScreen:00CE
+[2022.04.10-06.32.44:497][962]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.32.44:497][962]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item_1
+	SecurityMonitor_C /Game/MichaelM/Levels/Main_Menu.Main_Menu:PersistentLevel.SecurityMonitor5
+	Function /Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C:RefreshScreen:0150
+[2022.04.10-06.32.44:622][977]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.32.44:622][977]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	SecurityMonitor_C /Game/MichaelM/Levels/Main_Menu.Main_Menu:PersistentLevel.SecurityMonitor5
+	Function /Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C:RefreshScreen:00CE
+[2022.04.10-06.32.44:622][977]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.32.44:622][977]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item_1
+	SecurityMonitor_C /Game/MichaelM/Levels/Main_Menu.Main_Menu:PersistentLevel.SecurityMonitor5
+	Function /Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C:RefreshScreen:0150
+[2022.04.10-06.32.44:764][994]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.32.44:764][994]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	SecurityMonitor_C /Game/MichaelM/Levels/Main_Menu.Main_Menu:PersistentLevel.SecurityMonitor5
+	Function /Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C:RefreshScreen:00CE
+[2022.04.10-06.32.44:764][994]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.32.44:764][994]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item_1
+	SecurityMonitor_C /Game/MichaelM/Levels/Main_Menu.Main_Menu:PersistentLevel.SecurityMonitor5
+	Function /Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C:RefreshScreen:0150
+[2022.04.10-06.32.44:888][  9]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.32.44:888][  9]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	SecurityMonitor_C /Game/MichaelM/Levels/Main_Menu.Main_Menu:PersistentLevel.SecurityMonitor5
+	Function /Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C:RefreshScreen:00CE
+[2022.04.10-06.32.44:888][  9]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.32.44:888][  9]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item_1
+	SecurityMonitor_C /Game/MichaelM/Levels/Main_Menu.Main_Menu:PersistentLevel.SecurityMonitor5
+	Function /Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C:RefreshScreen:0150
+[2022.04.10-06.32.45:313][ 60]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.32.45:313][ 60]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	SecurityMonitor_C /Game/MichaelM/Levels/Main_Menu.Main_Menu:PersistentLevel.SecurityMonitor5
+	Function /Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C:RefreshScreen:00CE
+[2022.04.10-06.32.45:313][ 60]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.32.45:313][ 60]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item_1
+	SecurityMonitor_C /Game/MichaelM/Levels/Main_Menu.Main_Menu:PersistentLevel.SecurityMonitor5
+	Function /Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C:RefreshScreen:0150
+[2022.04.10-06.32.51:794][816]LogEditorViewport: Clicking on Actor (LMB): SecurityMonitor_C (SecurityMonitor3)
+[2022.04.10-06.32.56:495][341]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.32.56:495][341]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.32.56:496][341]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.32.56:496][341]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.32.56:496][341]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.32.56:496][341]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.32.56:788][376]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.32.56:788][376]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.32.56:789][376]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.32.56:789][376]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.32.56:789][376]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.32.56:789][376]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.32.57:363][445]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.32.57:363][445]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.32.57:364][445]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.32.57:364][445]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.32.57:365][445]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.32.57:365][445]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.32.57:481][459]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.32.57:481][459]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.32.57:482][459]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.32.57:482][459]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.32.57:483][459]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.32.57:483][459]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.32.57:698][485]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.32.57:698][485]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.32.57:699][485]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.32.57:699][485]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.32.57:699][485]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.32.57:699][485]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.32.57:916][511]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.32.57:916][511]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.32.57:916][511]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.32.57:916][511]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.32.57:917][511]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.32.57:917][511]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.32.58:291][556]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.32.58:291][556]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.32.58:292][556]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.32.58:292][556]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.32.58:293][556]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.32.58:293][556]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.32.59:000][641]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.32.59:000][641]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.32.59:001][641]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.32.59:001][641]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.32.59:002][641]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.32.59:002][641]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.32.59:309][678]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.32.59:309][678]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.32.59:310][678]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.32.59:310][678]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.32.59:311][678]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.32.59:311][678]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.32.59:610][714]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.32.59:610][714]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.32.59:610][714]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.32.59:610][714]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.32.59:611][714]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.32.59:611][714]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.33.01:089][890]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.33.01:089][890]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.33.01:090][890]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.33.01:090][890]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.33.01:091][890]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.33.01:091][890]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.33.01:698][963]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.33.01:698][963]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.33.01:698][963]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.33.01:699][963]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.33.01:699][963]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.33.01:699][963]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.33.04:909][327]LogEditorViewport: Clicking on Actor (LMB): SecurityMonitor_C (SecurityMonitor2)
+[2022.04.10-06.33.05:837][427]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.33.05:837][427]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	SecurityMonitor_C /Game/MichaelM/Levels/Main_Menu.Main_Menu:PersistentLevel.SecurityMonitor2_9
+	Function /Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C:RefreshScreen:00CE
+[2022.04.10-06.33.05:837][427]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.33.05:837][427]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item_1
+	SecurityMonitor_C /Game/MichaelM/Levels/Main_Menu.Main_Menu:PersistentLevel.SecurityMonitor2_9
+	Function /Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C:RefreshScreen:0150
+[2022.04.10-06.33.05:838][427]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.33.05:838][427]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	SecurityMonitor_C /Game/MichaelM/Levels/Main_Menu.Main_Menu:PersistentLevel.SecurityMonitor2_9
+	Function /Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C:RefreshScreen:00CE
+[2022.04.10-06.33.05:838][427]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.33.05:838][427]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item_1
+	SecurityMonitor_C /Game/MichaelM/Levels/Main_Menu.Main_Menu:PersistentLevel.SecurityMonitor2_9
+	Function /Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C:RefreshScreen:0150
+[2022.04.10-06.33.05:838][427]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.33.05:838][427]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	SecurityMonitor_C /Game/MichaelM/Levels/Main_Menu.Main_Menu:PersistentLevel.SecurityMonitor6
+	Function /Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C:RefreshScreen:00CE
+[2022.04.10-06.33.05:838][427]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.33.05:838][427]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item_1
+	SecurityMonitor_C /Game/MichaelM/Levels/Main_Menu.Main_Menu:PersistentLevel.SecurityMonitor6
+	Function /Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C:RefreshScreen:0150
+[2022.04.10-06.33.05:839][427]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.33.05:839][427]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	SecurityMonitor_C /Game/MichaelM/Levels/Main_Menu.Main_Menu:PersistentLevel.SecurityMonitor6
+	Function /Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C:RefreshScreen:00CE
+[2022.04.10-06.33.05:839][427]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.33.05:839][427]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item_1
+	SecurityMonitor_C /Game/MichaelM/Levels/Main_Menu.Main_Menu:PersistentLevel.SecurityMonitor6
+	Function /Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C:RefreshScreen:0150
+[2022.04.10-06.33.05:848][427]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.33.05:848][427]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	SecurityMonitor_C /Game/MichaelM/Levels/Main_Menu.Main_Menu:PersistentLevel.SecurityMonitor6
+	Function /Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C:RefreshScreen:00CE
+[2022.04.10-06.33.05:848][427]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.33.05:848][427]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item_1
+	SecurityMonitor_C /Game/MichaelM/Levels/Main_Menu.Main_Menu:PersistentLevel.SecurityMonitor6
+	Function /Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C:RefreshScreen:0150
+[2022.04.10-06.33.05:920][434]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.33.05:920][434]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	SecurityMonitor_C /Game/MichaelM/Levels/Main_Menu.Main_Menu:PersistentLevel.SecurityMonitor6
+	Function /Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C:RefreshScreen:00CE
+[2022.04.10-06.33.05:920][434]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.33.05:920][434]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item_1
+	SecurityMonitor_C /Game/MichaelM/Levels/Main_Menu.Main_Menu:PersistentLevel.SecurityMonitor6
+	Function /Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C:RefreshScreen:0150
+[2022.04.10-06.33.06:069][452]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.33.06:069][452]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	SecurityMonitor_C /Game/MichaelM/Levels/Main_Menu.Main_Menu:PersistentLevel.SecurityMonitor6
+	Function /Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C:RefreshScreen:00CE
+[2022.04.10-06.33.06:069][452]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.33.06:069][452]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item_1
+	SecurityMonitor_C /Game/MichaelM/Levels/Main_Menu.Main_Menu:PersistentLevel.SecurityMonitor6
+	Function /Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C:RefreshScreen:0150
+[2022.04.10-06.33.06:195][467]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.33.06:195][467]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	SecurityMonitor_C /Game/MichaelM/Levels/Main_Menu.Main_Menu:PersistentLevel.SecurityMonitor6
+	Function /Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C:RefreshScreen:00CE
+[2022.04.10-06.33.06:195][467]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.33.06:195][467]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item_1
+	SecurityMonitor_C /Game/MichaelM/Levels/Main_Menu.Main_Menu:PersistentLevel.SecurityMonitor6
+	Function /Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C:RefreshScreen:0150
+[2022.04.10-06.33.06:344][485]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.33.06:344][485]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	SecurityMonitor_C /Game/MichaelM/Levels/Main_Menu.Main_Menu:PersistentLevel.SecurityMonitor6
+	Function /Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C:RefreshScreen:00CE
+[2022.04.10-06.33.06:344][485]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.33.06:344][485]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item_1
+	SecurityMonitor_C /Game/MichaelM/Levels/Main_Menu.Main_Menu:PersistentLevel.SecurityMonitor6
+	Function /Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C:RefreshScreen:0150
+[2022.04.10-06.33.06:702][528]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.33.06:702][528]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	SecurityMonitor_C /Game/MichaelM/Levels/Main_Menu.Main_Menu:PersistentLevel.SecurityMonitor6
+	Function /Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C:RefreshScreen:00CE
+[2022.04.10-06.33.06:702][528]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ConnectedCameras' of length 0 in '/Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C'!
+[2022.04.10-06.33.06:702][528]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item_1
+	SecurityMonitor_C /Game/MichaelM/Levels/Main_Menu.Main_Menu:PersistentLevel.SecurityMonitor6
+	Function /Game/HorrorEngine/Blueprints/UsableAssets/Electronics/SecurityMonitor.SecurityMonitor_C:RefreshScreen:0150
+[2022.04.10-06.33.07:998][669]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WoodPanel_9)
+[2022.04.10-06.33.09:890][861]LogEditorViewport: Clicking on Actor (LMB): CineCameraActor (CineCameraActor1)
+[2022.04.10-06.33.41:658][515]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WoodDesk_03)
+[2022.04.10-06.33.42:712][622]Cmd: DELETE
+[2022.04.10-06.33.42:712][622]Cmd: ACTOR DELETE
+[2022.04.10-06.33.42:716][622]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.10-06.33.42:740][622]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2022.04.10-06.33.42:746][622]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2022.04.10-06.33.43:941][765]LogEditorViewport: Clicking on Actor (LMB): CineCameraActor (CineCameraActor1)
+[2022.04.10-06.34.39:975][134]LogEditorViewport: Clicking on Actor (LMB): CineCameraActor (CineCameraActor1)
+[2022.04.10-06.35.26:029][511]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.04.10-06.35.26:076][511]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.04.10-06.35.30:481][960]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2022.04.10-06.35.30:511][960]LogSavePackage: Moving '../../../../../Unity Projects/Directors-Hotel/HorrorEngine/Saved/Main_MenuFAB2AC404C8FE894B8AA4F910AE799B7.tmp' to '../../../../../Unity Projects/Directors-Hotel/HorrorEngine/Content/MichaelM/Levels/Main_Menu.umap'
+[2022.04.10-06.35.30:542][960]AssetCheck: New page: Asset Save: Main_Menu
+[2022.04.10-06.35.30:542][960]LogContentValidation: Display: Validating World /Game/MichaelM/Levels/Main_Menu.Main_Menu
+[2022.04.10-06.35.31:660][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
