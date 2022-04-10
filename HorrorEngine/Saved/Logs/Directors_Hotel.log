@@ -3527,3 +3527,261 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.04.10-07.10.11:843][151]LogSlate: Window 'Message Log' being destroyed
 [2022.04.10-07.10.37:928][236]BlueprintLog: New page: Compile Main_Menu
 [2022.04.10-07.10.37:971][236]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2022.04.10-07.20.09:404][198]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2022.04.10-07.20.09:477][198]LogSavePackage: Moving '../../../../../Unity Projects/Directors-Hotel/HorrorEngine/Saved/Main_Menu_Auto131FD27314F8EB5425BE0F4A9D54AB4D6.tmp' to '../../../../../Unity Projects/Directors-Hotel/HorrorEngine/Saved/Autosaves/Game/MichaelM/Levels/Main_Menu_Auto1.umap'
+[2022.04.10-07.20.09:483][198]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MichaelM/Levels/Main_Menu' took 0.106
+[2022.04.10-07.20.09:483][198]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.106
+[2022.04.10-08.31.21:910][674]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.04.10-08.31.21:948][674]LogSavePackage: Moving '../../../../../Unity Projects/Directors-Hotel/HorrorEngine/Saved/Main_Menu8F86E80148464B41EF41028287530A58.tmp' to '../../../../../Unity Projects/Directors-Hotel/HorrorEngine/Content/MichaelM/Levels/Main_Menu.umap'
+[2022.04.10-08.31.21:979][674]AssetCheck: New page: Asset Save: Main_Menu
+[2022.04.10-08.31.21:979][674]LogContentValidation: Display: Validating World /Game/MichaelM/Levels/Main_Menu.Main_Menu
+[2022.04.10-08.31.22:878][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2022.04.10-08.31.26:540][177]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2022.04.10-08.31.26:635][177]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2022.04.10-08.31.26:636][177]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.10-08.31.26:840][177]LogSlate: Window 'Directors_Hotel - Unreal Editor' being destroyed
+[2022.04.10-08.31.27:430][178]Cmd: QUIT_EDITOR
+[2022.04.10-08.31.27:430][178]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2022.04.10-08.31.27:536][178]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2022.04.10-08.31.28:630][178]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2022.04.10-08.31.28:630][178]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2022.04.10-08.31.28:630][178]LogAudio: Display: Audio Device unregistered from world 'Main_Menu'.
+[2022.04.10-08.31.28:630][178]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.10-08.31.28:632][178]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.10-08.31.28:663][178]LogAudio: Display: Audio Device Manager Shutdown
+[2022.04.10-08.31.28:717][178]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.04.10-08.31.28:728][178]LogExit: Preparing to exit.
+[2022.04.10-08.31.29:840][178]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2022.04.10-08.31.30:980][178]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.10-08.31.30:980][178]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.10-08.31.30:980][178]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.10-08.31.30:980][178]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.10-08.31.30:980][178]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.10-08.31.30:980][178]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.10-08.31.30:980][178]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.10-08.31.30:980][178]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.04.10-08.31.30:980][178]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.10-08.31.30:980][178]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.10-08.31.30:980][178]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.10-08.31.30:980][178]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.10-08.31.30:980][178]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.10-08.31.30:980][178]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.10-08.31.30:980][178]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.10-08.31.30:980][178]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.04.10-08.31.30:980][178]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.10-08.31.30:980][178]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.10-08.31.30:980][178]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.10-08.31.30:980][178]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.10-08.31.30:980][178]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.10-08.31.30:980][178]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.10-08.31.30:980][178]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.10-08.31.30:980][178]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.04.10-08.31.30:980][178]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.10-08.31.30:980][178]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.10-08.31.30:980][178]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.10-08.31.30:980][178]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.10-08.31.30:980][178]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.10-08.31.30:980][178]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.10-08.31.30:980][178]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.10-08.31.30:980][178]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.04.10-08.31.30:980][178]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.10-08.31.30:980][178]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.10-08.31.30:980][178]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.10-08.31.30:980][178]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.10-08.31.30:980][178]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.10-08.31.30:980][178]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.10-08.31.30:980][178]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.10-08.31.30:980][178]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.04.10-08.31.30:980][178]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.10-08.31.30:980][178]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.10-08.31.30:980][178]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.10-08.31.30:980][178]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.10-08.31.30:980][178]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.10-08.31.30:980][178]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.10-08.31.30:980][178]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.10-08.31.30:980][178]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.04.10-08.31.30:980][178]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.10-08.31.30:980][178]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.10-08.31.30:980][178]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.10-08.31.30:980][178]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.10-08.31.30:980][178]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.10-08.31.30:980][178]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.10-08.31.30:981][178]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.10-08.31.30:981][178]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.04.10-08.31.30:981][178]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.10-08.31.30:981][178]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.10-08.31.30:981][178]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.10-08.31.30:981][178]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.10-08.31.30:981][178]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.10-08.31.30:981][178]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.10-08.31.30:981][178]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.10-08.31.30:981][178]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.04.10-08.31.30:981][178]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.10-08.31.30:981][178]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.10-08.31.30:981][178]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.10-08.31.30:981][178]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.10-08.31.30:981][178]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.10-08.31.30:981][178]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.10-08.31.30:981][178]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.10-08.31.30:981][178]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.04.10-08.31.30:981][178]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.10-08.31.30:981][178]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.10-08.31.30:981][178]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.10-08.31.30:981][178]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.10-08.31.30:981][178]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.10-08.31.30:981][178]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.10-08.31.30:981][178]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.10-08.31.30:981][178]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.04.10-08.31.30:981][178]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.10-08.31.30:981][178]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.10-08.31.30:981][178]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.10-08.31.30:981][178]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.10-08.31.30:981][178]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.10-08.31.30:981][178]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.10-08.31.30:981][178]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.10-08.31.30:981][178]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.04.10-08.31.30:981][178]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.10-08.31.30:981][178]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.10-08.31.30:981][178]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.10-08.31.30:981][178]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.10-08.31.30:981][178]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.10-08.31.30:981][178]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.10-08.31.30:981][178]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.10-08.31.30:981][178]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.04.10-08.31.30:981][178]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.10-08.31.30:981][178]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.10-08.31.30:981][178]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.10-08.31.30:981][178]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.10-08.31.30:981][178]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.10-08.31.30:981][178]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.10-08.31.30:981][178]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.10-08.31.30:981][178]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.04.10-08.31.30:981][178]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.10-08.31.30:981][178]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.10-08.31.30:981][178]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.10-08.31.30:981][178]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.10-08.31.30:981][178]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.10-08.31.30:981][178]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.10-08.31.30:981][178]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.10-08.31.30:981][178]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.04.10-08.31.30:981][178]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.10-08.31.30:981][178]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.10-08.31.30:981][178]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.10-08.31.30:981][178]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.10-08.31.30:981][178]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.10-08.31.30:981][178]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.10-08.31.30:981][178]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.10-08.31.30:981][178]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.04.10-08.31.30:981][178]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.10-08.31.30:981][178]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.10-08.31.30:982][178]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.10-08.31.30:982][178]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.10-08.31.30:982][178]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.10-08.31.30:982][178]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.10-08.31.30:982][178]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.10-08.31.30:982][178]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.04.10-08.31.30:982][178]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.10-08.31.30:982][178]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.10-08.31.30:982][178]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.10-08.31.30:982][178]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.10-08.31.30:982][178]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.10-08.31.30:982][178]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.10-08.31.30:982][178]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.10-08.31.30:982][178]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.04.10-08.31.30:982][178]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.10-08.31.30:982][178]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.10-08.31.30:982][178]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.10-08.31.30:982][178]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.10-08.31.30:982][178]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.10-08.31.30:982][178]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.10-08.31.30:982][178]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.10-08.31.30:982][178]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.04.10-08.31.30:982][178]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.10-08.31.30:982][178]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.10-08.31.30:982][178]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.10-08.31.30:982][178]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.10-08.31.30:982][178]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.10-08.31.30:982][178]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.10-08.31.30:982][178]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.04.10-08.31.30:982][178]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.04.10-08.31.31:325][178]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.04.10-08.31.31:327][178]LogExit: Editor shut down
+[2022.04.10-08.31.31:329][178]LogExit: Transaction tracking system shut down
+[2022.04.10-08.31.31:385][178]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2022.04.10-08.31.34:958][178]LogExit: Object subsystem successfully closed.
+[2022.04.10-08.31.34:970][178]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.04.10-08.31.34:970][178]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.04.10-08.31.34:970][178]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.04.10-08.31.34:971][178]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.04.10-08.31.34:971][178]LogShaderCompilers: Display: ================================================
+[2022.04.10-08.31.35:322][178]LogShaderCompilers: Display: Shaders left to compile 0
+[2022.04.10-08.31.37:201][178]LogModuleManager: Shutting down and abandoning module BlueprintGraph (880)
+[2022.04.10-08.31.37:201][178]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (878)
+[2022.04.10-08.31.37:201][178]LogModuleManager: Shutting down and abandoning module Voice (876)
+[2022.04.10-08.31.37:215][178]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (874)
+[2022.04.10-08.31.37:215][178]LogModuleManager: Shutting down and abandoning module SceneOutliner (872)
+[2022.04.10-08.31.37:215][178]LogModuleManager: Shutting down and abandoning module AddContentDialog (870)
+[2022.04.10-08.31.37:227][178]LogModuleManager: Shutting down and abandoning module WidgetCarousel (869)
+[2022.04.10-08.31.37:227][178]LogModuleManager: Shutting down and abandoning module EditorWidgets (866)
+[2022.04.10-08.31.37:227][178]LogModuleManager: Shutting down and abandoning module StatsViewer (864)
+[2022.04.10-08.31.37:268][178]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (862)
+[2022.04.10-08.31.37:269][178]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (860)
+[2022.04.10-08.31.37:284][178]LogModuleManager: Shutting down and abandoning module AutomationWorker (858)
+[2022.04.10-08.31.37:298][178]LogModuleManager: Shutting down and abandoning module SteamVREditor (856)
+[2022.04.10-08.31.37:298][178]LogModuleManager: Shutting down and abandoning module OculusMR (854)
+[2022.04.10-08.31.37:298][178]LogModuleManager: Shutting down and abandoning module TakeRecorderSources (852)
+[2022.04.10-08.31.37:368][178]LogModuleManager: Shutting down and abandoning module TakeRecorder (851)
+[2022.04.10-08.31.37:371][178]LogModuleManager: Shutting down and abandoning module TakeTrackRecorders (848)
+[2022.04.10-08.31.37:372][178]LogModuleManager: Shutting down and abandoning module TakesCore (846)
+[2022.04.10-08.31.37:372][178]LogModuleManager: Shutting down and abandoning module OpenXRInput (844)
+[2022.04.10-08.31.37:384][178]LogModuleManager: Shutting down and abandoning module GooglePADEditor (842)
+[2022.04.10-08.31.37:384][178]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (840)
+[2022.04.10-08.31.37:384][178]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (838)
+[2022.04.10-08.31.37:398][178]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (836)
+[2022.04.10-08.31.37:421][178]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (834)
+[2022.04.10-08.31.37:424][178]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (832)
+[2022.04.10-08.31.37:425][178]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (830)
+[2022.04.10-08.31.37:425][178]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (828)
+[2022.04.10-08.31.37:425][178]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (826)
+[2022.04.10-08.31.37:425][178]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (824)
+[2022.04.10-08.31.37:425][178]LogModuleManager: Shutting down and abandoning module WebMMedia (822)
+[2022.04.10-08.31.37:425][178]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (820)
+[2022.04.10-08.31.37:431][178]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (818)
+[2022.04.10-08.31.37:450][178]LogModuleManager: Shutting down and abandoning module SequenceRecorder (817)
+[2022.04.10-08.31.37:450][178]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (814)
+[2022.04.10-08.31.37:450][178]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (812)
+[2022.04.10-08.31.37:451][178]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (810)
+[2022.04.10-08.31.37:451][178]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (808)
+[2022.04.10-08.31.37:451][178]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (806)
+[2022.04.10-08.31.37:451][178]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (804)
+[2022.04.10-08.31.37:451][178]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (802)
+[2022.04.10-08.31.37:451][178]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (800)
+[2022.04.10-08.31.37:451][178]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (798)
+[2022.04.10-08.31.37:451][178]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (796)
+[2022.04.10-08.31.37:451][178]LogModuleManager: Shutting down and abandoning module PlanarCut (794)
+[2022.04.10-08.31.37:451][178]LogModuleManager: Shutting down and abandoning module TextureAlignMode (792)
+[2022.04.10-08.31.37:451][178]LogModuleManager: Shutting down and abandoning module BspMode (790)
+[2022.04.10-08.31.37:468][178]LogModuleManager: Shutting down and abandoning module GeometryMode (788)
+[2022.04.10-08.31.37:484][178]LogModuleManager: Shutting down and abandoning module CharacterAI (786)
+[2022.04.10-08.31.37:484][178]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (784)
+[2022.04.10-08.31.37:495][178]LogModuleManager: Shutting down and abandoning module SmartSnapping (782)
+[2022.04.10-08.31.37:495][178]LogModuleManager: Shutting down and abandoning module SessionServices (780)
+[2022.04.10-08.31.37:495][178]LogModuleManager: Shutting down and abandoning module MeshPaint (778)
+[2022.04.10-08.31.37:497][178]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (776)
+[2022.04.10-08.31.37:522][178]LogModuleManager: Shutting down and abandoning module FoliageEdit (774)
+[2022.04.10-08.31.37:541][178]LogModuleManager: Shutting down and abandoning module LandscapeEditor (772)
+[2022.04.10-08.31.37:559][178]LogModuleManager: Shutting down and abandoning module MeshPaintMode (770)
+[2022.04.10-08.31.37:559][178]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (768)
+[2022.04.10-08.31.37:559][178]LogModuleManager: Shutting down and abandoning module ActorPickerMode (766)
+[2022.04.10-08.31.37:559][178]LogModuleManager: Shutting down and abandoning module PlacementMode (764)
+[2022.04.10-08.31.37:559][178]LogModuleManager: Shutting down and abandoning module ViewportSnapping (762)
+[2022.04.10-08.31.37:559][178]LogModuleManager: Shutting down and abandoning module ViewportInteraction (760)
+[2022.04.10-08.31.37:559][178]LogModuleManager: Shutting down and abandoning module ClothPainter (758)
+[2022.04.10-08.31.37:619][178]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (757)
+[2022.04.10-08.31.37:641][178]LogModuleManager: Shutting down and abandoning module LogVisualizer (754)
+[2022.04.10-08.31.37:660][178]LogModuleManager: Shutting down and abandoning module IntroTutorials (752)
+[2022.04.10-08.31.37:683][178]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (751)
+[2022.04.10-08.31.37:700][178]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (748)
+[2022.04.10-08.31.37:700][178]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (746)
+[2022.04.10-08.31.37:701][178]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (744)
+[2022.04.10-08.31.37:712][178]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (743)
