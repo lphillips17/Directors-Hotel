@@ -983,3 +983,28 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.04.12-10.04.46:071][922]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\monst\Downloads\234855__mlsulli__footsteps-carpet.wav)
 [2022.04.12-10.04.57:050][974]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\monst\Downloads\546827__kinoton__footsteps-leather-concrete.wav)
 [2022.04.12-10.05.04:970][112]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2022.04.12-10.07.50:651][189]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2022.04.12-10.07.51:535][189]LogSlate: Window 'Save Content' being destroyed
+[2022.04.12-10.07.51:627][189]LogSavePackage: Moving '../../../../../Unity Projects/Directors-Hotel/HorrorEngine/Saved/234855__mlsulli__footsteps-carpe8E9CC520451F4466CD216CBEDBF5D91D.tmp' to '../../../../../Unity Projects/Directors-Hotel/HorrorEngine/Content/MichaelM/Audio/234855__mlsulli__footsteps-carpet.uasset'
+[2022.04.12-10.07.51:652][189]LogSavePackage: Moving '../../../../../Unity Projects/Directors-Hotel/HorrorEngine/Saved/546827__kinoton__footsteps-leathBCE9FB6C491E81B83CD476877FF322E4.tmp' to '../../../../../Unity Projects/Directors-Hotel/HorrorEngine/Content/MichaelM/Audio/546827__kinoton__footsteps-leather-concrete.uasset'
+[2022.04.12-10.07.51:656][189]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MichaelM/Audio/Carpet_Run_Footsteps" FILE="../../../../../Unity Projects/Directors-Hotel/HorrorEngine/Content/MichaelM/Audio/Carpet_Run_Footsteps.uasset" SILENT=true
+[2022.04.12-10.07.51:661][189]LogSavePackage: Moving '../../../../../Unity Projects/Directors-Hotel/HorrorEngine/Saved/Carpet_Run_Footsteps2E365CAB47FD9C39014544B2DE8E0C30.tmp' to '../../../../../Unity Projects/Directors-Hotel/HorrorEngine/Content/MichaelM/Audio/Carpet_Run_Footsteps.uasset'
+[2022.04.12-10.07.51:665][189]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MichaelM/Audio/Concrete_Footstep_1" FILE="../../../../../Unity Projects/Directors-Hotel/HorrorEngine/Content/MichaelM/Audio/Concrete_Footstep_1.uasset" SILENT=true
+[2022.04.12-10.07.51:671][189]LogSavePackage: Moving '../../../../../Unity Projects/Directors-Hotel/HorrorEngine/Saved/Concrete_Footstep_1D7BE71D44F41420F48F7CD974CAE9921.tmp' to '../../../../../Unity Projects/Directors-Hotel/HorrorEngine/Content/MichaelM/Audio/Concrete_Footstep_1.uasset'
+[2022.04.12-10.07.51:674][189]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MichaelM/Audio/Concrete_Footstep_2" FILE="../../../../../Unity Projects/Directors-Hotel/HorrorEngine/Content/MichaelM/Audio/Concrete_Footstep_2.uasset" SILENT=true
+[2022.04.12-10.07.51:680][189]LogSavePackage: Moving '../../../../../Unity Projects/Directors-Hotel/HorrorEngine/Saved/Concrete_Footstep_28F6A16CE4359DC5B13B0CF8845CF7413.tmp' to '../../../../../Unity Projects/Directors-Hotel/HorrorEngine/Content/MichaelM/Audio/Concrete_Footstep_2.uasset'
+[2022.04.12-10.07.51:683][189]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MichaelM/Audio/Concrete_Footstep_3" FILE="../../../../../Unity Projects/Directors-Hotel/HorrorEngine/Content/MichaelM/Audio/Concrete_Footstep_3.uasset" SILENT=true
+[2022.04.12-10.07.51:689][189]LogSavePackage: Moving '../../../../../Unity Projects/Directors-Hotel/HorrorEngine/Saved/Concrete_Footstep_38102412D4BF1B5BA3590A78EDD1A548D.tmp' to '../../../../../Unity Projects/Directors-Hotel/HorrorEngine/Content/MichaelM/Audio/Concrete_Footstep_3.uasset'
+[2022.04.12-10.07.51:693][189]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MichaelM/Audio/Concrete_Footstep_4" FILE="../../../../../Unity Projects/Directors-Hotel/HorrorEngine/Content/MichaelM/Audio/Concrete_Footstep_4.uasset" SILENT=true
+[2022.04.12-10.07.51:699][189]LogSavePackage: Moving '../../../../../Unity Projects/Directors-Hotel/HorrorEngine/Saved/Concrete_Footstep_4FD809EAD406DAF8659074AB7FECA9BC2.tmp' to '../../../../../Unity Projects/Directors-Hotel/HorrorEngine/Content/MichaelM/Audio/Concrete_Footstep_4.uasset'
+[2022.04.12-10.07.51:703][189]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MichaelM/Audio/Wood_Footsteps" FILE="../../../../../Unity Projects/Directors-Hotel/HorrorEngine/Content/MichaelM/Audio/Wood_Footsteps.uasset" SILENT=true
+[2022.04.12-10.07.51:708][189]LogSavePackage: Moving '../../../../../Unity Projects/Directors-Hotel/HorrorEngine/Saved/Wood_Footsteps05698F3E4AEE4B3EBEC3C4AF82ED2445.tmp' to '../../../../../Unity Projects/Directors-Hotel/HorrorEngine/Content/MichaelM/Audio/Wood_Footsteps.uasset'
+[2022.04.12-10.07.51:720][189]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.12-10.07.51:720][189]LogContentValidation: Display: Validating SoundWave /Game/MichaelM/Audio/234855__mlsulli__footsteps-carpet.234855__mlsulli__footsteps-carpet
+[2022.04.12-10.07.51:720][189]LogContentValidation: Display: Validating SoundWave /Game/MichaelM/Audio/Carpet_Run_Footsteps.Carpet_Run_Footsteps
+[2022.04.12-10.07.51:720][189]LogContentValidation: Display: Validating SoundWave /Game/MichaelM/Audio/Concrete_Footstep_1.Concrete_Footstep_1
+[2022.04.12-10.07.51:720][189]LogContentValidation: Display: Validating SoundWave /Game/MichaelM/Audio/Concrete_Footstep_4.Concrete_Footstep_4
+[2022.04.12-10.07.51:720][189]LogContentValidation: Display: Validating SoundWave /Game/MichaelM/Audio/Concrete_Footstep_3.Concrete_Footstep_3
+[2022.04.12-10.07.51:720][189]LogContentValidation: Display: Validating SoundWave /Game/MichaelM/Audio/Concrete_Footstep_2.Concrete_Footstep_2
+[2022.04.12-10.07.51:720][189]LogContentValidation: Display: Validating SoundWave /Game/MichaelM/Audio/546827__kinoton__footsteps-leather-concrete.546827__kinoton__footsteps-leather-concrete
+[2022.04.12-10.07.51:720][189]LogContentValidation: Display: Validating SoundWave /Game/MichaelM/Audio/Wood_Footsteps.Wood_Footsteps
