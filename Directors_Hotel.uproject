@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "4.27",
+	"EngineAssociation": "5.0",
 	"Category": "",
 	"Description": "",
 	"Plugins": [
@@ -59,6 +59,15 @@
 			"Name": "AchievementSystem",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/d9f6e0a8c92f47db9e2fde6080bed630"
+		},
+		{
+			"Name": "Bridge",
+			"Enabled": true,
+			"SupportedTargetPlatforms": [
+				"Win64",
+				"Mac",
+				"Linux"
+			]
 		}
 	]
 }
